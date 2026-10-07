@@ -1,0 +1,3787 @@
+{
+ "002de495b0ed4cc90adf603607589cfd0d254cf7": {
+  "history": [
+   "where was the cotton gin invented and where is it used today",
+   "Did the need for cotton workers increase?",
+   "By how much did the cotton gin increase production?",
+   "Was the invention of the cotton gin indirectly a cause of the American Civil War?",
+   "Was Britain relying on Southern cotton?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "How do modern cotton gins work?",
+   "What are modern cotton gins used for today?",
+   "How has the technology of cotton gins evolved in modern times?",
+   "What is the function and design of a modern cotton gin?",
+   "How does the modern cotton gin process cotton compared to historical methods?"
+  ],
+  "turn": "Modern cotton gins."
+ },
+ "01e6b4f17660f6dc86d0f93b0584542328c8418d": {
+  "history": [
+   "What are the categories of people for which it is especially important to get a flu vaccine?",
+   "Can you tell me the greatest pandemics worldwide before  COVID in 2020?",
+   "What about HIV pandemic? did it kill many people?",
+   "How did  HIV originated and where did start the first cases?",
+   "Is there a cure for HIV?",
+   "Is Herpes a lethal disease and how is it transmitted?",
+   "Is there a vaccine for Herper, how can it be prevent?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "how are vaccines manufactured",
+   "what is the process of making vaccines",
+   "how do scientists create vaccines",
+   "methods used for vaccine production",
+   "how are viral and bacterial vaccines developed"
+  ],
+  "turn": "Speaking about vaccines, how are they made?"
+ },
+ "01ed7d51f257796504de7ac9ffe03717296fa945": {
+  "history": [
+   "what is the meaning of grenade by bruno mars"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "who wrote and performed the song grenade by bruno mars",
+   "writers and performers of the song grenade",
+   "songwriters and artists for grenade by bruno mars",
+   "who are the creators and singers of grenade",
+   "credits for writing and performing grenade by bruno mars"
+  ],
+  "turn": "Are you able to tell me who were the writers  of the song and also who were its performers?"
+ },
+ "0280cf4479d97d96e27c5ff99651e812d5822c33": {
+  "history": [
+   "where is bone marrow found what does it do for the body",
+   "What happens if it does not work well?",
+   "How is Sickle cell treated?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "is sickle cell disease fatal",
+   "can sickle cell anemia cause death",
+   "mortality rate and life expectancy of sickle cell treatment",
+   "is a lack of effective sickle cell treatment fatal",
+   "can untreated sickle cell disease be fatal"
+  ],
+  "turn": "Will it kill me?"
+ },
+ "02a5695c48c907a63a3291a8ae716aef0d2d44f1": {
+  "history": [
+   "where does the penobscot river start and end",
+   "The West branch.",
+   "Are there any other important river systems?",
+   "Is this the best river for fishing in the country?",
+   "The Snake River is the longest river in the country.",
+   "Which is the largest river in America?",
+   "That was not my question. When I say \"America,\" I'm referring to the continent, not the United States of America.",
+   "Which rivers are navigable in the USA?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Is the Hudson River important?",
+   "What is the significance of the Hudson River?",
+   "Why is the Hudson River historically or economically important?",
+   "Is the Hudson River considered an important river in the United States?",
+   "What makes the Hudson River important?"
+  ],
+  "turn": "Is the Hudson River important?"
+ },
+ "031f5ae2252d8b5d2374953ed120eea9d4d2ee91": {
+  "history": [
+   "which industry provides the largest employment in india",
+   "Agriculture seems very important to India",
+   "what does indian agriculture produce include?",
+   "do you think indian people working in agriculture industry make money",
+   "what is cashew kernels and cashew nut shell liquid?",
+   "can you explain more about the retail industry in india?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what are the other major industries in India",
+   "list other prominent industries in India besides agriculture and retail",
+   "what other sectors drive the Indian economy",
+   "major industries in India besides retail and agriculture",
+   "what other industries exist in India"
+  ],
+  "turn": "other indian industries"
+ },
+ "03934f5a0c43ff2b4831ad62118a4882226a3027": {
+  "history": [
+   "who takes photos of planes in the air",
+   "No, I meant photos in the air.",
+   "So does that mean pilot of the second aircraft also acts as a photographer?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Is air-to-air photography more difficult than ground-to-air photography?",
+   "Compare the difficulty of air-to-air photography versus ground-to-air photography",
+   "Why is air-to-air photography harder than ground-to-air aviation photography?",
+   "Is photographing planes from another aircraft harder than taking photos from the ground?",
+   "What are the challenges of air-to-air photography compared to ground-to-air?"
+  ],
+  "turn": "Is air-to-air phtography more difficult that ground-to-air?"
+ },
+ "08f17254ed4b561a4ca27267f73ff87c2ea8c804": {
+  "history": [
+   "where does the penobscot river start and end",
+   "The West branch.",
+   "Are there any other important river systems?",
+   "Is this the best river for fishing in the country?",
+   "The Snake River is the longest river in the country."
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "What is the largest river in America?",
+   "Which river is the biggest in the United States?",
+   "What is the largest river system in the US?",
+   "Which American river has the greatest volume or size?",
+   "What is the biggest river in the United States by size?"
+  ],
+  "turn": "Which is the largest river in America?"
+ },
+ "0bf266a6def64a0d84537ccf97cc41c8d0dfad75": {
+  "history": [
+   "what is the defense of marriage act 1996",
+   "How is marriage defined?",
+   "How are weddings celebrated?",
+   "What is the meaning of the glass being broken at a Jewish wedding?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Are same-sex marriages legal in all US states?",
+   "Do all states in the United States permit same-sex marriage?",
+   "Is same-sex marriage recognized across all US states?",
+   "Does every US state allow marriages between people of the same sex?",
+   "Are same-sex marriages performed and recognized in all states?"
+  ],
+  "turn": "Do all states allow same sex marriages?"
+ },
+ "0ca4ec817447d81b3f27e4a3dae4dd54607d699d": {
+  "history": [
+   "types and causes of male and female infertility",
+   "How many years, think about adoption?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "regional differences in adoption rates",
+   "regional differences in infertility causes",
+   "geographic variations in male and female infertility",
+   "regional disparities in adoption statistics",
+   "geographic differences regarding infertility and adoption"
+  ],
+  "turn": "Regional differences"
+ },
+ "0e3ef5699d30f3d055cf16a307425839f61ee369": {
+  "history": [
+   "why was the eastern roman empire called the byzantine empire",
+   "What was its religion?",
+   "When was reorganized?",
+   "Why it fall?",
+   "When was it found?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "When was the Byzantine Empire founded within the borders of modern-day Italy?",
+   "What territories of present-day Italy were held by the Byzantine Empire?",
+   "When did the Byzantine Empire establish control over modern Italy?",
+   "Which parts of current Italy were part of the Byzantine Empire?",
+   "When was the Byzantine Empire present in the region of modern Italy?"
+  ],
+  "turn": "Stay within the boundaries of what is now known as Italy."
+ },
+ "0e49da853ea884a800b2dcb944d18f6c4e6ee3da": {
+  "history": [
+   "where do the arizona cardinals play this week",
+   "Do they play outside the US?",
+   "And Chicago?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "where do the chicago bears play this week",
+   "chicago bears game location this week",
+   "what stadium are the chicago bears playing in this week",
+   "is the chicago bears game this week outside the US",
+   "chicago bears schedule venue this week"
+  ],
+  "turn": "not the Chicago one"
+ },
+ "0fa3a33534d666d8f038d4f6d7ac6ddc0ff0ec40": {
+  "history": [
+   "what happens to toby at the end of the office",
+   "any reason to end?",
+   "who was the arch rival to this series?",
+   "why 46% drop all the sudden?  who are audiences?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "did the office win any awards",
+   "what awards did the tv show the office win",
+   "the office tv series awards and nominations",
+   "did the show the office receive major awards",
+   "awards won by the office television series"
+  ],
+  "turn": "any awards"
+ },
+ "10d79f56052cefd36c8de38dfad8348f846bdc98": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what is NFL",
+   "what does NFL stand for",
+   "NFL definition",
+   "explain the National Football League",
+   "what is the NFL sports league"
+  ],
+  "turn": "what is NFL"
+ },
+ "115185c1670f1bb91b1226965cc14e6f3e9e6019": {
+  "history": [
+   "robert louis stevenson a child's garden of verses",
+   "is a child's garden of verses only in English?",
+   "what are the contents of a child's garden of verses"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "famous poets to know",
+   "recommended famous poets",
+   "other famous poets worth reading",
+   "famous poets similar to robert louis stevenson",
+   "classic poets you recommend"
+  ],
+  "turn": "any other famous poets you recommend me to know?"
+ },
+ "13754b92672d8a8d32f2084e0a30e9c5845d2697": {
+  "history": [
+   "why did the us demand trade with japan"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "did US petroleum dependence demands cause Japan to start World War II",
+   "did US oil embargoes against Japan lead to their entry into WWII",
+   "was Japanese reliance on US oil a cause of the Pacific War",
+   "did the US demand for trade cause Japan to start WWII",
+   "did US petroleum demands lead to the outbreak of WWII for Japan"
+  ],
+  "turn": "So, are you saying that the petroleum dependance eventually caused Japan to start WWII?"
+ },
+ "137e52b1cf80192a47284ad4f6487418dad59a33": {
+  "history": [
+   "what is the defense of marriage act 1996",
+   "How is marriage defined?",
+   "How are weddings celebrated?",
+   "What is the meaning of the glass being broken at a Jewish wedding?",
+   "Do all states allow same sex marriages?",
+   "Can same sex couples adopt children?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Are same sex couples legally allowed to immigrate together?",
+   "Legal immigration rights for same sex married couples",
+   "Immigration laws for same sex couples in the United States",
+   "Can same sex couples sponsor each other for legal immigration?",
+   "Federal legal immigration recognition for same sex couples"
+  ],
+  "turn": "Legal immigration for same sex couples."
+ },
+ "1416f364df9beb86ca4656b2e6f5e9aa34a1f329": {
+  "history": [
+   "how does the mls all star game work",
+   "What is it called outside of the USA?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "can women play in the mls all star game",
+   "are female players allowed in the mls all star game",
+   "can women participate in the major league soccer all star game",
+   "are women's soccer players eligible for the mls all star game",
+   "can women play in major league soccer all-star matches"
+  ],
+  "turn": "Can women play it?"
+ },
+ "14463ed2b881ae850b5aba680e407ab3cc9ac457": {
+  "history": [
+   "how much were the actors in friends paid",
+   "oh my god, I am a big fan of Jennifer Aniston. how was she introduced in Friends",
+   "how many seasons does Friends have? When did it start and end?",
+   "did Friends air in different countries? I also wonder if the show earned any awards",
+   "how was Friends final episode? are the actors still get along after the final episode?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "why did all the main actors in Friends receive the same salary",
+   "reasons for equal pay among the cast members of Friends",
+   "how did the cast of Friends negotiate to get equal pay per episode",
+   "why do television actors usually get paid different amounts instead of equal salaries",
+   "explanation of the equal salary agreement for the main cast of Friends"
+  ],
+  "turn": "I am very curious about why each members are receiving the same pay. Isn't it usually different?"
+ },
+ "17110cea7c4ee894bc4d7679bb44fef5cf9bce41": {
+  "history": [
+   "What are the categories of people for which it is especially important to get a flu vaccine?",
+   "Can you tell me the greatest pandemics worldwide before  COVID in 2020?",
+   "What about HIV pandemic? did it kill many people?",
+   "How did  HIV originated and where did start the first cases?",
+   "Is there a cure for HIV?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Is Herpes a lethal disease and how is it transmitted?",
+   "What are the transmission methods and mortality rate of Herpes?",
+   "How does Herpes spread and is it fatal?",
+   "Is Herpes deadly and how do people contract it?",
+   "What is the lethality and transmission of the Herpes virus?"
+  ],
+  "turn": "Is Herpes a lethal disease and how is it transmitted?"
+ },
+ "187cfbec47bdeca97c18f334a7e0e77d81fa4a7a": {
+  "history": [
+   "how much were the actors in friends paid",
+   "oh my god, I am a big fan of Jennifer Aniston. how was she introduced in Friends",
+   "how many seasons does Friends have? When did it start and end?",
+   "did Friends air in different countries? I also wonder if the show earned any awards",
+   "how was Friends final episode? are the actors still get along after the final episode?",
+   "I am very curious about why each members are receiving the same pay. Isn't it usually different?",
+   "where was the Friends filmed?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "how to recommend the TV show Friends to family and friends",
+   "tips for introducing someone to the TV show Friends",
+   "how to get my family and friends to watch Friends",
+   "ways to introduce people to the television series Friends",
+   "how to suggest watching Friends to others"
+  ],
+  "turn": "how can I introduce the Friends to my family and friends? I want to recommend them to watch it as well"
+ },
+ "18fb161b5edb056e1a89d38128b7569b68240fe5": {
+  "history": [
+   "how does the mls all star game work",
+   "What is it called outside of the USA?",
+   "Can women play it?",
+   "Which is the most popular?",
+   "Where does it originate from?",
+   "Is American football derived from it?",
+   "Where American football is popular?",
+   "Is it similar to rugby?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "How many teams play in rugby",
+   "Number of teams in a rugby union match",
+   "How many teams compete in rugby",
+   "Total number of rugby teams",
+   "How many teams are in rugby"
+  ],
+  "turn": "How many teams?"
+ },
+ "191876b779f973ffb6ba086a5d65a67d2dc92d57": {
+  "history": [
+   "where do the arizona cardinals play this week",
+   "Do the Arizona Cardinals play outside the US?",
+   "Are the Arizona Cardinals and the Chicago Cardinals the same team?",
+   "How many teams are in the NFL?",
+   "How many teams are in the NFL playoffs?",
+   "Which team has won the most Super Bowls?",
+   "How many times have the New England Patriots played the super bowl?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Who is the head coach of the New England Patriots?",
+   "New England Patriots current head coach",
+   "Who coaches the New England Patriots football team?",
+   "New England Patriots coach history",
+   "Current head coach of the Patriots"
+  ],
+  "turn": "Who is the Patriot's coach?"
+ },
+ "193ebbae0433fb6fa1eb540fa7dc22224783a8e6": {
+  "history": [
+   "how does the mls all star game work?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "When did the MLS All-Star game start?",
+   "MLS All-Star game inaugural year",
+   "What year was the first MLS All-Star game held?",
+   "History and start date of the MLS All-Star game",
+   "Origin year of the Major League Soccer All-Star game"
+  ],
+  "turn": "When did the MSL All-Star game start?"
+ },
+ "1c72345867c4394455ec4432dd347329935687f1": {
+  "history": [
+   "where does water go after it enters a storm drain",
+   "What is a catchbasin and how they are designed?",
+   "Does the basin really capture the litter  and debris from the water from the streets, roads, roofs?",
+   "Could be the water that enters a storm drain recycled and be used in the house chores like cleaning, gardening , etc?",
+   "And about on the level of the Federal government, do  they have guidelines or even a law to how to build more sustainable storm drain so the water could be recycled ?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "How do storm drain systems function internationally in other countries?",
+   "What are international methods and designs for storm drains around the world?",
+   "How do global stormwater management systems operate in other parts of the world?",
+   "How do storm drains work in different countries outside the United States?",
+   "What are foreign practices and technologies for urban stormwater drainage?"
+  ],
+  "turn": "How does the storm drain work in the other parts of the world."
+ },
+ "1ef034ba86e8c2409074be9c8287eea29e7817a9": {
+  "history": [
+   "where does doctor strange get his powers from",
+   "did he always have powers? what was he before?",
+   "how many films does he appear in",
+   "wasn't he in captain america?",
+   "I see thanks for explaining. Why was he referenced in the film?",
+   "does he have an infinity gem"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "how many infinity stones exist in marvel",
+   "total number of infinity stones in the mcu",
+   "how many infinity gems are there in total",
+   "what is the total count of infinity stones",
+   "how many infinity stones are in marvel comics and movies"
+  ],
+  "turn": "how many stones are there"
+ },
+ "2088d419cb33eeb811f2770694921854e150e829": {
+  "history": [
+   "why was the eastern roman empire called the byzantine empire",
+   "What was its religion?",
+   "When was reorganized?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Why did the Byzantine Empire fall?",
+   "What caused the fall of the Eastern Roman Empire?",
+   "When and why did the Byzantine Empire collapse?",
+   "What led to the downfall of the Byzantine Empire?",
+   "Factors in the fall of the Eastern Roman Empire"
+  ],
+  "turn": "Why it fall?"
+ },
+ "20b48720124ff1ea86800f97c965ef6256c18960": {
+  "history": [
+   "where does it snow the most in north carolina?",
+   "That means North Carolina has most the time tough winters with some much snow. What can you tell me about the  summer months. Are they enyoyable ?",
+   "Are you saying the North Carolina can get a lot  hurricane during the summer months?",
+   "As Winter and summer are tough seasons with snow and hurricane, tornadoes, what can you tell me about spring and fall?",
+   "Appalachian Mountains",
+   "What could you tell me overall about North Carollina like its economy ?",
+   "Speaking of North Carolina, its weather, economy, what can you tell me about its participation in the American Revolution."
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "North Carolina involvement in the US Civil War",
+   "role of North Carolina during the American Civil War",
+   "North Carolina history in the US Civil War",
+   "what did North Carolina do in the Civil War",
+   "North Carolina participation in the Civil War"
+  ],
+  "turn": "And about North Carolina involvement in the US Civil war."
+ },
+ "21eceec2a83b3cefe22a17e97dcf5b4f8d59de19": {
+  "history": [
+   "types and causes of male and female infertility",
+   "How many years, think about adoption?",
+   "Regional differences",
+   "chemo and fertility,  before puberty, still?",
+   "any good idea to this?",
+   "Enough for a chemo and infertility, is this a hereditary?",
+   "By the way, when was the vitro conception developed?",
+   "egg donor a good business?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "are egg donor agencies organized or do donors contract individually with recipients",
+   "how are egg donation arrangements structured between agencies and recipients",
+   "are commercial egg donors organized through agencies rather than independent contracts",
+   "do egg donor programs use organized agencies instead of individual recipient contracts",
+   "are egg donations managed by organized agencies or individual private contracts"
+  ],
+  "turn": "I mean are they organized, not individually contracted with the recipients?"
+ },
+ "227ffe62315282686070599885252d402538733b": {
+  "history": [
+   "name the viceroy at the time of quit india movement",
+   "what did he do?",
+   "opposition leader for the movement",
+   "who is Patel?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "how to pronounce Vallabhbhai Patel",
+   "Vallabhbhai pronunciation",
+   "pronunciation of Sardar Vallabhbhai Patel",
+   "how do you say Vallabhbhai",
+   "correct pronunciation of Vallabhbhai name"
+  ],
+  "turn": "how do you pronounce Vallabhbhai?"
+ },
+ "23663a73fcd2124eb23ec0b7dda7082b0062b0e6": {
+  "history": [
+   "what is the great wall of China built out of"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "how long is the great wall of china",
+   "what is the total length of the great wall of china",
+   "great wall of china length",
+   "how many miles long is the great wall of china",
+   "length of the great wall of china in kilometers"
+  ],
+  "turn": "How long is the Wall?"
+ },
+ "23fe979ae048757bcd2e11c3d2194ad6574142ac": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "A Child's Garden of Verses Robert Louis Stevenson",
+   "Robert Louis Stevenson A Child's Garden of Verses poems",
+   "buy A Child's Garden of Verses by Robert Louis Stevenson",
+   "summary of A Child's Garden of Verses Robert Louis Stevenson",
+   "Robert Louis Stevenson A Child's Garden of Verses collection"
+  ],
+  "turn": "robert louis stevenson a child's garden of verses"
+ },
+ "262f3298d7e920aed0d28c7d7cc5938ddc2dc6fd": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "who was the viceroy of india during the quit india movement",
+   "viceroy during the quit india movement name",
+   "british viceroy of india in 1942 quit india movement",
+   "name the viceroy at the time of the quit india movement",
+   "who served as viceroy during the quit india movement"
+  ],
+  "turn": "name the viceroy at the time of quit india movement"
+ },
+ "266631660c4f60d9d3c5de31b53fe1bc72f08df2": {
+  "history": [
+   "Where do guinea pigs sleep in the wild?",
+   "where does Domestic guinea pigs live and what does Domestic guinea pigs activity look like?",
+   "more about guinea pig appearance or body"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what are the different breeds and species of domestic guinea pigs",
+   "are there multiple species of guinea pigs and what are their origins",
+   "clarify guinea pig breeds species and geographic origins",
+   "what are the different guinea pig breeds and do they come from different origins",
+   "are there different species and breeds of guinea pigs with distinct origins"
+  ],
+  "turn": "can you clarify the breed here? is there different species of Guinea pig? maybe they are from different origin?"
+ },
+ "269aaf4fc7a99c62be20d82f52a09559a77d446f": {
+  "history": [
+   "where was the cotton gin invented and where is it used today",
+   "Did the need for cotton workers increase?",
+   "By how much did the cotton gin increase production?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "did the invention of the cotton gin indirectly cause the american civil war",
+   "was the cotton gin an indirect cause of the american civil war",
+   "how did the cotton gin indirectly contribute to the american civil war",
+   "did cotton gin production increases indirectly lead to the american civil war",
+   "was the american civil war indirectly caused by the invention of the cotton gin"
+  ],
+  "turn": "Was the invention of the cotton gin indirectly a cause of the American Civil War?"
+ },
+ "270db807f86df8a31d82ef6813186bb002af4af9": {
+  "history": [
+   "what happens to toby at the end of the office",
+   "any reason to end?",
+   "who was the arch rival to this series?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "why did The Office experience a sudden 46 percent drop in viewership and who was the audience",
+   "what caused the abrupt 46% decline in ratings for The Office and who watched the show",
+   "reasons for the sudden 46 percent decrease in viewers of The Office and target audience demographics",
+   "why did The Office suffer an unexpected 46% drop and who made up its audience",
+   "explaining the sudden 46 percent ratings drop for The Office and its viewership demographics"
+  ],
+  "turn": "why 46% drop all the sudden?  who are audiences?"
+ },
+ "2808bad7880f4b4c3ed5aa6a6a1efe5165d7fba2": {
+  "history": [
+   "types and causes of male and female infertility",
+   "How many years, think about adoption?",
+   "Regional differences"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Does chemotherapy cause infertility in children before puberty?",
+   "Effects of chemotherapy on future fertility in prepubescent males and females",
+   "Can prepubescent children become infertile from chemotherapy treatment?",
+   "Chemotherapy impact on fertility before puberty",
+   "Prepubescent cancer treatment and subsequent infertility risk"
+  ],
+  "turn": "chemo and fertility,  before puberty, still?"
+ },
+ "2aa0475755109a82ce6f74ccb6d4ba6b826a7162": {
+  "history": [
+   "what happens to toby at the end of the office",
+   "any reason to end?",
+   "who was the arch rival to this series?",
+   "why 46% drop all the sudden?  who are audiences?",
+   "any awards",
+   "history best?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what is considered the best television series in history",
+   "what is the highest rated TV show of all time",
+   "critically acclaimed best TV series in history",
+   "what is widely regarded as the best TV show ever made",
+   "greatest television series in history"
+  ],
+  "turn": "no, I meant which TV series was the best in history?"
+ },
+ "2e452a640e49ace2ed419ab2ef3e27139d07987d": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Friends cast salary",
+   "how much were the actors in Friends paid per episode",
+   "Friends actors earnings",
+   "cast salary of the TV show Friends",
+   "how much money did the main actors make on Friends"
+  ],
+  "turn": "how much were the actors in friends paid"
+ },
+ "2e752ea20794f158ded186ee63157ec1df1cd991": {
+  "history": [
+   "types and causes of male and female infertility",
+   "How many years, think about adoption?",
+   "Regional differences",
+   "chemo and fertility,  before puberty, still?",
+   "any good idea to this?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "is chemotherapy-induced infertility hereditary",
+   "can infertility caused by chemotherapy be passed down genetically",
+   "is genetic or hereditary male and female infertility linked to chemotherapy treatment",
+   "does chemo and cancer treatment related infertility affect future generations",
+   "is chemotherapy induced reproductive damage hereditary"
+  ],
+  "turn": "Enough for a chemo and infertility, is this a hereditary?"
+ },
+ "2eec59bf020d60870493e0ed139f7170c83cacb6": {
+  "history": [
+   "where does water go after it enters a storm drain",
+   "What is a catchbasin and how they are designed?",
+   "Does the basin really capture the litter  and debris from the water from the streets, roads, roofs?",
+   "Could be the water that enters a storm drain recycled and be used in the house chores like cleaning, gardening , etc?",
+   "And about on the level of the Federal government, do  they have guidelines or even a law to how to build more sustainable storm drain so the water could be recycled ?",
+   "How does the storm drain work in the other parts of the world.",
+   "Do you have any information about how the ancient civilization deal with the stormwater?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "How many people worldwide lack access to proper sewage treatment?",
+   "Global population statistics for lack of proper sewage treatment",
+   "Worldwide data on people without proper wastewater and sewage treatment",
+   "How many individuals globally do not have proper sewage treatment systems?",
+   "Global scale of the population without access to proper sewage treatment"
+  ],
+  "turn": "Chaging the subject a little a bit,  are there many people worldwide without  proper sewage treatment?"
+ },
+ "345a93a3195132b1bcb5fe666ee05cc3c9f6542c": {
+  "history": [
+   "what happens to toby at the end of the office",
+   "any reason to end?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "who was the arch rival to the tv show the office",
+   "what show was considered the main competitor to the office",
+   "what was the arch rival series of the office sitcom",
+   "which television show was the chief rival of the office",
+   "what was the primary competing show against the office series"
+  ],
+  "turn": "who was the arch rival to this series?"
+ },
+ "364ae01f2c4e1bec9bf038c1d6db197a9c1d59b8": {
+  "history": [
+   "what is the defense of marriage act 1996",
+   "How is marriage defined?",
+   "How are weddings celebrated?",
+   "What is the meaning of the glass being broken at a Jewish wedding?",
+   "Do all states allow same sex marriages?",
+   "Can same sex couples adopt children?",
+   "Legal immigration for same sex couples."
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "What are the legal restrictions to immigration for same sex couples?",
+   "What are the current immigration restrictions for same-sex couples?",
+   "Are there specific immigration restrictions for same sex couples?",
+   "What restrictions apply to same-sex couples seeking legal immigration?",
+   "What are the limitations and restrictions on immigration for same sex partners?"
+  ],
+  "turn": "Restrictions to immigration."
+ },
+ "366108a6e43bef55f20c99832a03605774041af5": {
+  "history": [
+   "where does doctor strange get his powers from",
+   "did he always have powers? what was he before?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "how many films does Doctor Strange appear in",
+   "total number of movies starring Doctor Strange",
+   "Doctor Strange movie appearance count",
+   "in how many MCU films is Doctor Strange featured",
+   "filmography of Doctor Strange movie appearances"
+  ],
+  "turn": "how many films does he appear in"
+ },
+ "375884bc14af42c1501ca3590b0e1fbbe446defd": {
+  "history": [
+   "name the viceroy at the time of quit india movement",
+   "what did he do?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "who was the opposition leader during the quit india movement",
+   "opposition leader for the quit india movement",
+   "who opposed the quit india movement",
+   "political opposition to the quit india movement",
+   "leaders who opposed the quit india movement"
+  ],
+  "turn": "opposition leader for the movement"
+ },
+ "38097c73bbc0e792cb07667fc21b303d943b0491": {
+  "history": [
+   "robert louis stevenson a child's garden of verses",
+   "is a child's garden of verses only in English?",
+   "what are the contents of a child's garden of verses",
+   "any other famous poets you recommend me to know?",
+   "can you provide more details of E. E. Cummings?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "E. E. Cummings life biography and background",
+   "what were the major life events of E. E. Cummings",
+   "did real life events influence E. E. Cummings famous poetry",
+   "E. E. Cummings personal life and inspiration for his poems",
+   "how did E. E. Cummings's life experiences affect his famous work"
+  ],
+  "turn": "how was E. E. Cummings's life? Was E. E. Cummings's famous poem affected by something?"
+ },
+ "38972dce8101428695c0d90572f4abaadd8655c6": {
+  "history": [
+   "which sport awards the oldest trophy in international sports"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what is the oldest sport invented and is it still played today",
+   "oldest sport ever created and current status",
+   "what is the oldest sport in human history still being played",
+   "history of the oldest invented sport still active today",
+   "what is the first sport ever invented and is it still played"
+  ],
+  "turn": "As America's Cup is the oldest trophy awarded to sailing, May I ask you what is the oldest sport invented and if  it is still been currently playing ?"
+ },
+ "38da87c205abf45184acdea18d6228341d3c629f": {
+  "history": [
+   "what makes the different shapes of the moon",
+   "What is the distance between the moon and earth?",
+   "How old is the moon?",
+   "What was the longest mission to the moon?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "why are monkeys used for space travel",
+   "what makes monkeys suitable for space missions",
+   "reasons for sending monkeys to space",
+   "why were monkeys chosen for early space travel",
+   "physiological traits that make monkeys suitable for spaceflight"
+  ],
+  "turn": "what makes monkeys suitable for space travel?"
+ },
+ "390e1d83466fbd79aa6c991627863bfa506c5c07": {
+  "history": [
+   "why was the eastern roman empire called the byzantine empire",
+   "What was its religion?",
+   "When was reorganized?",
+   "Why it fall?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "When was the Byzantine Empire founded?",
+   "What is the founding date of the Eastern Roman Empire?",
+   "When was Constantinople established as the capital of the Byzantine Empire?",
+   "In what year did the Byzantine Empire begin?",
+   "When was the Eastern Roman Empire founded?"
+  ],
+  "turn": "When was it found?"
+ },
+ "392501e9b7d46402f2d9e98a95a183033aa38737": {
+  "history": [
+   "how does the mls all star game work?",
+   "When did the MSL All-Star game start?",
+   "MSL All-Star game seems to be a big sport event.  Have any teams from Europe played in the MSL All-Star Games ?",
+   "Talking about soccer, Can you name the best soccer players of all the time?",
+   "What  does it make a good soccer player?",
+   "Are Soccer still considered the most watched sports around the world?",
+   "What can you say about American Football? Is i talso considered a popular sport as soccer?",
+   "Is Basketball also considered a very popular sport in America?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "popularity of ice hockey in the United States",
+   "ice hockey participation in American high schools and colleges",
+   "youth and collegiate ice hockey popularity",
+   "ice hockey as a sport in America",
+   "high school and college ice hockey programs"
+  ],
+  "turn": "I like ice hockey as my sons were great players in the High school and also played for club hockey during their years in college."
+ },
+ "3b39992355378146bbf20d8db22690999060b090": {
+  "history": [
+   "where does the penobscot river start and end",
+   "The West branch.",
+   "Are there any other important river systems?",
+   "Is this the best river for fishing in the country?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Is the Snake River the longest river in the United States?",
+   "What is the length of the Snake River compared to other US rivers?",
+   "Is the Snake River considered the longest river in the country?",
+   "Does the Snake River hold the record for the longest river in the US?",
+   "What is the longest river in the United States?"
+  ],
+  "turn": "The Snake River is the longest river in the country."
+ },
+ "3d9ecf1cff2a1b033c2835823374af898cfc6080": {
+  "history": [
+   "Were Shakespeare's plays popular when he was alive?",
+   "How many film adaptations of Hamlet are there?",
+   "What about Romeo and Juliet?",
+   "Hamnet",
+   "What was Shakespeare's most popular historical play?",
+   "A horse , a horse , my kingdom for a horse !"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Is Shakespeare's play Richard III historically accurate?",
+   "How historically accurate is the play Richard III by Shakespeare?",
+   "Did Shakespeare accurately portray historical events in Richard III?",
+   "Historical accuracy of Shakespeare's Richard III",
+   "Is the historical representation in Richard III by Shakespeare true?"
+  ],
+  "turn": "Is Richard III historically accurate?"
+ },
+ "404ff47c499aed3ecd0ec5777e918e92a58ab42b": {
+  "history": [
+   "who takes photos of planes in the air"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "who takes photographs of airplanes while flying",
+   "aerial aviation photography",
+   "how to take photos of planes in mid air",
+   "photographers who take pictures of airliners in flight",
+   "air-to-air aircraft photography"
+  ],
+  "turn": "No, I meant photos in the air."
+ },
+ "40e4fbf50150a0d382cd90c0d3741bfe0f4d5168": {
+  "history": [
+   "where does it snow the most in north carolina?",
+   "That means North Carolina has most the time tough winters with some much snow. What can you tell me about the  summer months. Are they enyoyable ?",
+   "Are you saying the North Carolina can get a lot  hurricane during the summer months?",
+   "As Winter and summer are tough seasons with snow and hurricane, tornadoes, what can you tell me about spring and fall?",
+   "Appalachian Mountains",
+   "What could you tell me overall about North Carollina like its economy ?",
+   "Speaking of North Carolina, its weather, economy, what can you tell me about its participation in the American Revolution.",
+   "And about North Carolina involvement in the US Civil war."
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "North Carolina casualties and impact during the American Civil War",
+   "North Carolina's destruction and suffering in the Civil War",
+   "How severe was the Civil War in North Carolina",
+   "North Carolina history American Civil War devastation",
+   "Impact of the US Civil War on North Carolina"
+  ],
+  "turn": "I see. What a terrible war !"
+ },
+ "4160e2a7bf749c8534f78de2950efc33608f87cf": {
+  "history": [
+   "where do the arizona cardinals play this week",
+   "Do the Arizona Cardinals play outside the US?",
+   "Are the Arizona Cardinals and the Chicago Cardinals the same team?",
+   "How many teams are in the NFL?",
+   "How many teams are in the NFL playoffs?",
+   "Which team has won the most Super Bowls?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "How many times have the New England Patriots played in the Super Bowl",
+   "New England Patriots Super Bowl appearances total count",
+   "Total number of Super Bowl games played by the New England Patriots",
+   "How many Super Bowls have the Patriots been in",
+   "New England Patriots Super Bowl record of appearances"
+  ],
+  "turn": "How many times have the New England Patriots played the super bowl?"
+ },
+ "422c88ebbe759137c02c557a61842af4f0ab1041": {
+  "history": [
+   "where does water go after it enters a storm drain"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what is a catch basin and how is it designed",
+   "catch basin definition and design principles",
+   "how are catch basins designed",
+   "what is a storm drain catch basin",
+   "catch basin structure and design"
+  ],
+  "turn": "What is a catchbasin and how they are designed?"
+ },
+ "439dd8bb852d0d3fa45b14f316d5c11c3f61235c": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "how does the mls all star game work",
+   "mls all star game format and rules",
+   "explain the major league soccer all star game structure",
+   "how are teams chosen for the mls all star game",
+   "mls all star game selection process and rules"
+  ],
+  "turn": "how does the mls all star game work"
+ },
+ "43dec21e26b508966ffaee7f579037a7d4127415": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "who needs a flu shot the most",
+   "categories of people high risk for flu",
+   "populations that should prioritize getting a flu vaccine",
+   "who is especially vulnerable to influenza",
+   "high risk groups for flu vaccination"
+  ],
+  "turn": "What are the categories of people for which it is especially important to get a flu vaccine?"
+ },
+ "4416cee0152e8a55f7776641a218f73446ba278d": {
+  "history": [
+   "name the viceroy at the time of quit india movement",
+   "what did he do?",
+   "opposition leader for the movement",
+   "who is Patel?",
+   "how do you pronounce Vallabhbhai?",
+   "That is too bad.  Although the movement was non-violent, some ended up in violence, right?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "population of India during the Quit India Movement",
+   "India population size in 1942",
+   "what was the population of India during the 1942 movement",
+   "India demographic statistics in 1942",
+   "total population of British India in 1942"
+  ],
+  "turn": "population back then"
+ },
+ "447a5fa64dc1960dad742b60e2619a28aaa78148": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what happens to toby flenderson at the end of the office",
+   "toby flenderson final fate in the office series finale",
+   "how does toby's story arc end in the office",
+   "what is toby flenderson's job and status at the end of the office",
+   "toby flenderson ending in the office tv show"
+  ],
+  "turn": "what happens to toby at the end of the office"
+ },
+ "450bfee8c0853eefdbda29b26ffc8a68b0ae0d38": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what are aerial plane photographers called",
+   "who takes photographs of airplanes in flight",
+   "aviation air-to-air photography professionals",
+   "who takes pictures of airplanes in the air",
+   "air-to-air aviation photography practitioners"
+  ],
+  "turn": "who takes photos of planes in the air"
+ },
+ "45e56981b51982b20f66a6723af7cf21068c5b1c": {
+  "history": [
+   "when did the wall in berlin come down",
+   "When did the official reunification of Germany take place?",
+   "How many people died trying to cross the Berlin Wall?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "How did people try to escape the Berlin Wall?",
+   "What methods did individuals use to cross the Berlin Wall?",
+   "How did people attempt to flee across the Berlin Wall?",
+   "What were the common escape methods used during the Berlin Wall era?",
+   "How did citizens try to escape from East Berlin to West Berlin?"
+  ],
+  "turn": "How did people try to escape?"
+ },
+ "4665b6814cdf0dd5ce51aa692947372bbdea03dd": {
+  "history": [
+   "where is bone marrow found what does it do for the body",
+   "What happens if it does not work well?",
+   "How is Sickle cell treated?",
+   "Will it kill me?",
+   "How about transplant?",
+   "Is Huntington's disease also inherited?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Are there any cures for Huntington's disease",
+   "Can Huntington's disease be cured",
+   "What are the available cures for Huntington's disease",
+   "Is there a cure for Huntington's disease",
+   "How to cure Huntington's disease"
+  ],
+  "turn": "Any cures for it?"
+ },
+ "4697d033d6592c080bbb961ab3cc9a0085fb767e": {
+  "history": [
+   "what happens to toby at the end of the office",
+   "any reason to end?",
+   "who was the arch rival to this series?",
+   "why 46% drop all the sudden?  who are audiences?",
+   "any awards",
+   "history best?",
+   "no, I meant which TV series was the best in history?",
+   "So what is the next after The Office?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "where to stream The Office",
+   "which streaming services carry The Office",
+   "best streaming platforms for TV series like The Office",
+   "where can I watch the successor to The Office via streaming",
+   "streaming services available for watching top TV shows"
+  ],
+  "turn": "streaming services?"
+ },
+ "477f554d97e647b1afc5743b26f695ba16c4eca1": {
+  "history": [
+   "where does it snow the most in north carolina?",
+   "That means North Carolina has most the time tough winters with some much snow. What can you tell me about the  summer months. Are they enyoyable ?",
+   "Are you saying the North Carolina can get a lot  hurricane during the summer months?",
+   "As Winter and summer are tough seasons with snow and hurricane, tornadoes, what can you tell me about spring and fall?",
+   "Appalachian Mountains",
+   "What could you tell me overall about North Carollina like its economy ?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "North Carolina role in the American Revolution",
+   "history of North Carolina during the American Revolution",
+   "American Revolution events and battles in North Carolina",
+   "North Carolina participation in the Revolutionary War",
+   "what did North Carolina do in the American Revolution"
+  ],
+  "turn": "Speaking of North Carolina, its weather, economy, what can you tell me about its participation in the American Revolution."
+ },
+ "4af4b442de105e0739d1a920f0390055615f7822": {
+  "history": [
+   "where do the arizona cardinals play this week",
+   "Do they play outside the US?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what causes the northern lights in norway",
+   "aurora borealis scientific explanation norway",
+   "why does the aurora borealis occur in norway",
+   "physics behind the northern lights in norway",
+   "what is the cause of the northern lights"
+  ],
+  "turn": "what causes the northern lights in norway"
+ },
+ "4d3877dd565bebebc907db3e41b2c40c92d3a549": {
+  "history": [
+   "how does the mls all star game work",
+   "What is it called outside of the USA?",
+   "Can women play it?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Which MLS All-Star Game format is the most popular",
+   "Which version of the All-Star Game is the most popular",
+   "Which women's soccer all-star game is the most popular",
+   "Which professional soccer all-star game is the most popular",
+   "Which soccer all-star match is the most popular"
+  ],
+  "turn": "Which is the most popular?"
+ },
+ "4de0598946e4e4f7760d730f16430213bd5c82c0": {
+  "history": [
+   "types and causes of male and female infertility",
+   "How many years, think about adoption?",
+   "Regional differences",
+   "chemo and fertility,  before puberty, still?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "good ideas for coping with infertility caused by chemotherapy before puberty",
+   "suggestions for dealing with childhood cancer treatment-related infertility",
+   "recommendations for addressing infertility from chemo before puberty",
+   "how to handle fertility issues after undergoing chemotherapy in childhood",
+   "ideas and options for managing pre-pubescent chemotherapy-induced infertility"
+  ],
+  "turn": "any good idea to this?"
+ },
+ "4e2ac3941fb16b7db6abac997e633113bac37e1d": {
+  "history": [
+   "where does doctor strange get his powers from",
+   "did he always have powers? what was he before?",
+   "how many films does he appear in",
+   "wasn't he in captain america?",
+   "I see thanks for explaining. Why was he referenced in the film?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "does Doctor Strange possess an Infinity Stone",
+   "did Doctor Strange ever have an infinity gem",
+   "does Doctor Strange own an infinity gem in the Marvel Cinematic Universe",
+   "which Infinity Stone did Doctor Strange have",
+   "did Doctor Strange have an infinity gem in the movies"
+  ],
+  "turn": "does he have an infinity gem"
+ },
+ "4ec98440d4e7d35276aa2ddba6bb244caa7d2696": {
+  "history": [
+   "Where do guinea pigs sleep in the wild?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "where do domestic guinea pigs live and what is their daily activity",
+   "habitat and activity patterns of domestic guinea pigs",
+   "where do pet guinea pigs live and how do they behave",
+   "domestic guinea pig natural habitat and daily routine",
+   "where do domesticated guinea pigs live and what are their activity habits"
+  ],
+  "turn": "where does Domestic guinea pigs live and what does Domestic guinea pigs activity look like?"
+ },
+ "4ff795d65a5c5edd403f909d8b6c58135ab92690": {
+  "history": [
+   "where does it snow the most in north carolina?",
+   "That means North Carolina has most the time tough winters with some much snow. What can you tell me about the  summer months. Are they enyoyable ?",
+   "Are you saying the North Carolina can get a lot  hurricane during the summer months?",
+   "As Winter and summer are tough seasons with snow and hurricane, tornadoes, what can you tell me about spring and fall?",
+   "Appalachian Mountains"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "What is the overall economy of North Carolina like?",
+   "Can you provide an overview of North Carolina, including its economy?",
+   "What are the main economic features of North Carolina?",
+   "Tell me about the general economy and characteristics of North Carolina.",
+   "What is the economic situation in North Carolina overall?"
+  ],
+  "turn": "What could you tell me overall about North Carollina like its economy ?"
+ },
+ "507e790a6a6b8ce3314209576dcb70ebc0e42c36": {
+  "history": [
+   "where do the arizona cardinals play this week",
+   "Do they play outside the US?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "where did the arizona cardinals play before arizona",
+   "where did the arizona cardinals franchise play before moving to arizona",
+   "arizona cardinals previous home stadium before arizona",
+   "where was the arizona cardinals team located before arizona",
+   "history of arizona cardinals stadium locations prior to arizona"
+  ],
+  "turn": "where did they play before arizona"
+ },
+ "50911fb0855d1d9c12c40eae6661e3360dd4ab1a": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "who won the 2008 world series",
+   "2008 world series champion",
+   "which baseball team won the 2008 world series",
+   "2008 world series winner",
+   "who won the major league baseball championship in 2008"
+  ],
+  "turn": "who won the 2008 world series"
+ },
+ "5170712d492912eaf87ac45f1c5791cce341398b": {
+  "history": [
+   "what happens to toby at the end of the office"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "why did the office end",
+   "reasons for ending the tv show the office",
+   "why was the office TV show cancelled",
+   "what led to the conclusion of the office",
+   "why did the creators decide to end the office"
+  ],
+  "turn": "any reason to end?"
+ },
+ "51a491eef68117874c4801a471ad6b77a55d1c1b": {
+  "history": [
+   "which industry provides the largest employment in india",
+   "Agriculture seems very important to India",
+   "what does indian agriculture produce include?",
+   "do you think indian people working in agriculture industry make money",
+   "what is cashew kernels and cashew nut shell liquid?",
+   "can you explain more about the retail industry in india?",
+   "other indian industries"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "is the economy of india growing fast and what is the growth rate",
+   "what is the economic growth rate of india",
+   "how fast is the indian economy growing currently",
+   "what is the current gdp growth rate of india",
+   "is india experiencing rapid economic growth"
+  ],
+  "turn": "is india growing fast? how fast?"
+ },
+ "51c7a602899e7e5ad105f1361a0d82e79547ce27": {
+  "history": [
+   "what is the difference between primary and archaeological sources"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what are primary sources in history",
+   "definition of primary sources in historical research",
+   "examples of primary sources in history",
+   "how to identify primary sources in history",
+   "what is a primary source in the study of history"
+  ],
+  "turn": "primary sources in history"
+ },
+ "52d581d0e454c716784f4d27e024063b32b6ea49": {
+  "history": [
+   "What are the categories of people for which it is especially important to get a flu vaccine?",
+   "Can you tell me the greatest pandemics worldwide before  COVID in 2020?",
+   "What about HIV pandemic? did it kill many people?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "How did the HIV pandemic originate and where did the first cases start?",
+   "What are the origins of HIV and where were the initial cases recorded?",
+   "Where did HIV come from and how did the very first cases begin?",
+   "What is the origin story of HIV and where did the outbreak start?",
+   "How did the Human Immunodeficiency Virus emerge and where did patient zero originate?"
+  ],
+  "turn": "How did  HIV originated and where did start the first cases?"
+ },
+ "53720b9e5eddf106404411a2ae85e092dd12d2f3": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what materials were used to build the great wall of china",
+   "great wall of china construction materials",
+   "what is the great wall of china made of",
+   "building materials of the great wall of china",
+   "what substances were used to construct the great wall of china"
+  ],
+  "turn": "what is the great wall of China built out of"
+ },
+ "540c6f8e5039976f71ef10765d6a5fecd2d457c0": {
+  "history": [
+   "what is the defense of marriage act 1996",
+   "How is marriage defined?",
+   "How are weddings celebrated?",
+   "What is the meaning of the glass being broken at a Jewish wedding?",
+   "Do all states allow same sex marriages?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "can same sex couples adopt children legally in the United States",
+   "adoption rights for same sex couples by state",
+   "are same sex couples allowed to adopt children",
+   "can LGBTQ+ couples adopt children",
+   "same sex couple adoption legality and laws"
+  ],
+  "turn": "Can same sex couples adopt children?"
+ },
+ "542649ae0696094bf49fa6d1f02eb518ac1b62a6": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "where does doctor strange get his powers from",
+   "doctor strange power source origins",
+   "how did doctor strange get his magic abilities",
+   "doctor strange magic origin story",
+   "where do doctor strange spells and powers come from"
+  ],
+  "turn": "where does doctor strange get his powers from"
+ },
+ "544a263f68c5543f5c346347b6f151986dd39b36": {
+  "history": [
+   "what is the difference between primary and archaeological sources",
+   "primary sources in history"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "how do colonialists relate to archaeological discoveries",
+   "archaeological discoveries made by colonialists",
+   "impact of colonialism on archaeological discoveries",
+   "role of colonialists in archaeological discoveries",
+   "archaeological discoveries in the context of colonialism"
+  ],
+  "turn": "archaeological discoveries and colonialists"
+ },
+ "54570837191bfe8c30ce812ac515c9615a219bed": {
+  "history": [
+   "where does doctor strange get his powers from",
+   "did he always have powers? what was he before?",
+   "how many films does he appear in"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "did doctor strange appear in captain america",
+   "was doctor strange in any captain america movies",
+   "did doctor strange make an appearance in captain america films",
+   "was doctor strange cast in captain america",
+   "did doctor strange feature in the captain america movies"
+  ],
+  "turn": "wasn't he in captain america?"
+ },
+ "54cbd13f53a5796e55d2a3db8d4d64e609496117": {
+  "history": [
+   "why was the eastern roman empire called the byzantine empire",
+   "What was its religion?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "When was the Byzantine Empire reorganized?",
+   "When was the Eastern Roman Empire reorganized?",
+   "Reorganization date of the Byzantine Empire",
+   "When did the reorganization of the Eastern Roman Empire take place?",
+   "What year was the Byzantine Empire reorganized?"
+  ],
+  "turn": "When was reorganized?"
+ },
+ "54f5a2d9932f3466b8f91e03b41018ea43989257": {
+  "history": [
+   "how does the mls all star game work"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "What is the MLS All-Star Game called outside of the USA?",
+   "What is the Major League Soccer All-Star Game known as internationally?",
+   "What is the equivalent name for the MLS All-Star Game outside the United States?",
+   "How is the MLS All-Star event referred to outside the US?",
+   "What is the name for the Major League Soccer All-Star match in other countries?"
+  ],
+  "turn": "What is it called outside of the USA?"
+ },
+ "55d87529f8f45c9fc1563059ea9ce8d481dff7be": {
+  "history": [
+   "where does the penobscot river start and end"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "where does the west branch of the penobscot river start and end",
+   "what is the source and mouth of the west branch penobscot river",
+   "where does the west branch of the penobscot river begin",
+   "penobscot river west branch start and end locations",
+   "where does the western branch of the penobscot river flow"
+  ],
+  "turn": "The West branch."
+ },
+ "58d4ce5d73902bed78b8f377eaaf57e53622e0e0": {
+  "history": [
+   "why did the us demand trade with japan",
+   "So, are you saying that the petroleum dependance eventually caused Japan to start WWII?",
+   "What it called \"greater something\"?",
+   "why MacArthur didn't criminalize the Emperor that time?",
+   "As a result, do you think the country was better off?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Was Japan better off occupied by the US rather than the USSR?",
+   "Comparison of US vs USSR occupation of Japan post WWII",
+   "Did US occupation benefit Japan more than Soviet occupation would have?",
+   "Post-WWII Japan US occupation outcomes versus Soviet occupation",
+   "Was the US occupation of Japan better for the country than a Soviet occupation?"
+  ],
+  "turn": "I mean better off as a result of being occupied by US rather than USSR."
+ },
+ "5f9b960686510f630c4866bdaf4aad87217a750b": {
+  "history": [
+   "types and causes of male and female infertility",
+   "How many years, think about adoption?",
+   "Regional differences",
+   "chemo and fertility,  before puberty, still?",
+   "any good idea to this?",
+   "Enough for a chemo and infertility, is this a hereditary?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "When was in vitro fertilization invented?",
+   "History of the development of vitro conception",
+   "What year was in vitro fertilization first successfully performed?",
+   "Origin date of vitro conception technology",
+   "When was the first vitro conception developed?"
+  ],
+  "turn": "By the way, when was the vitro conception developed?"
+ },
+ "60314a41bc28ba9572b585f0102ff66bdbe0b517": {
+  "history": [
+   "name the viceroy at the time of quit india movement",
+   "what did he do?",
+   "opposition leader for the movement",
+   "who is Patel?",
+   "how do you pronounce Vallabhbhai?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Did the Quit India Movement become violent despite being planned as non-violent?",
+   "Was there violence during the Quit India Movement?",
+   "Did the Quit India Movement involve violence?",
+   "Were there violent incidents during the non-violent Quit India Movement?",
+   "Did some protests in the Quit India Movement turn violent?"
+  ],
+  "turn": "That is too bad.  Although the movement was non-violent, some ended up in violence, right?"
+ },
+ "606ca180f7df227136fba01e0b6255064e122527": {
+  "history": [
+   "which sport awards the oldest trophy in international sports",
+   "As America's Cup is the oldest trophy awarded to sailing, May I ask you what is the oldest sport invented and if  it is still been currently playing ?",
+   "Soccer is a very popular sport and watched by millions around the world. What is the difference between soccer and american football that is also very popular and viewed  by thousands around the world?",
+   "Are those sport only played by man or woman also can play  them?",
+   "Do you think i can be a good soccer player?",
+   "I can see that play any sport soccer any other needs some talend and a lot practices and some body, but is there any special diet become a good player?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Is eating meat unhealthy for athletes?",
+   "Does a sports diet exclude eating meat?",
+   "Is a meat-based diet bad for soccer players?",
+   "Should athletes avoid consuming meat?",
+   "Are meat diets not recommended for people who play sports?"
+  ],
+  "turn": "Are you saying that eat meat is not good  for those play sports?"
+ },
+ "62191b9abdcef0a8cda24578d516992017371cd2": {
+  "history": [
+   "where does doctor strange get his powers from"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "did doctor strange always have powers and what was his profession before",
+   "was doctor strange born with his magical abilities and what was his original job",
+   "did doctor strange have his powers from the beginning and what did he do for a living before",
+   "what was doctor strange's occupation before he got his powers and did he always possess them",
+   "did doctor strange always have magic and what was his career before becoming a sorcerer"
+  ],
+  "turn": "did he always have powers? what was he before?"
+ },
+ "62793c5d2f7594af8b08c852cd7d1602ef19d6c2": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "places with the most snowfall in North Carolina",
+   "snowiest city or town in North Carolina",
+   "where does it snow heavily in North Carolina",
+   "maximum snowfall locations in North Carolina",
+   "North Carolina areas with the highest annual snow accumulation"
+  ],
+  "turn": "where does it snow the most in north carolina?"
+ },
+ "63756f15aaca055fa05eda874c7fae460ab36863": {
+  "history": [
+   "Where do guinea pigs sleep in the wild?",
+   "where does Domestic guinea pigs live and what does Domestic guinea pigs activity look like?",
+   "more about guinea pig appearance or body",
+   "can you clarify the breed here? is there different species of Guinea pig? maybe they are from different origin?",
+   "why is Guinea pig called pig?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "can guinea pigs be kept as domestic pets",
+   "are guinea pigs suitable pets for humans",
+   "can you keep a guinea pig as a pet",
+   "is it a good idea to have a pet guinea pig",
+   "can guinea pigs be domesticated and kept as pets"
+  ],
+  "turn": "do you think I can have guinea pig as my pet?"
+ },
+ "640d164a97aab003498897061607ba7665c87f03": {
+  "history": [
+   "what is the great wall of China built out of",
+   "How long is the Wall?",
+   "Who was the enemy?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "What are the major achievements and historical significance of Qin Shi Huang?",
+   "What is Emperor Qin Shi Huang most famous for in Chinese history?",
+   "What are the key historical contributions of Qin Shi Huang?",
+   "Why is Qin Shi Huang a famous figure in history?",
+   "What is Qin Shi Huang known for accomplishing during his reign?"
+  ],
+  "turn": "What is Qin Shi Huang known for?"
+ },
+ "67cc3cefd301a77bc168d38117cef1aaadaeb9ad": {
+  "history": [
+   "how does the mls all star game work",
+   "What is it called outside of the USA?",
+   "Can women play it?",
+   "Which is the most popular?",
+   "Where does it originate from?",
+   "Is American football derived from it?",
+   "Where American football is popular?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Is American football similar to rugby",
+   "How does American football compare to rugby",
+   "Are American football and rugby similar sports",
+   "Does American football resemble rugby",
+   "Is the sport of American football similar to rugby"
+  ],
+  "turn": "Is it similar to rugby?"
+ },
+ "682c42cdf895ff23801f27c245fea508728fb0b8": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "where does water go after it enters a storm drain",
+   "storm drain water destination and path",
+   "what happens to water that goes into storm drains",
+   "where do storm drains lead to",
+   "water drainage system endpoint after storm drain"
+  ],
+  "turn": "where does water go after it enters a storm drain"
+ },
+ "695b96f28dbefd9eb50726b9bedfbbd2b0798c8f": {
+  "history": [
+   "why did the us demand trade with japan",
+   "So, are you saying that the petroleum dependance eventually caused Japan to start WWII?",
+   "What it called \"greater something\"?",
+   "why MacArthur didn't criminalize the Emperor that time?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Was Japan better off after World War II",
+   "Did World War II and the Allied occupation improve Japan's situation",
+   "Long term effects of World War II on Japan's prosperity",
+   "Was the outcome of World War II beneficial for Japan",
+   "Japan's economic and social condition post World War II"
+  ],
+  "turn": "As a result, do you think the country was better off?"
+ },
+ "698ffc012aad0215cb02f2ef5a0ff60a308be749": {
+  "history": [
+   "how much were the actors in friends paid"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "how was Jennifer Aniston introduced in Friends",
+   "Jennifer Aniston first appearance in Friends character introduction",
+   "how did Jennifer Aniston's character Rachel Green start on Friends",
+   "introduction scene of Jennifer Aniston in Friends pilot episode",
+   "how was Jennifer Aniston cast and introduced in the TV show Friends"
+  ],
+  "turn": "oh my god, I am a big fan of Jennifer Aniston. how was she introduced in Friends"
+ },
+ "69fee2b486fb4bac2e42f7ab9c94c3fa7f67b04b": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "meaning of the song grenade by bruno mars",
+   "bruno mars grenade lyrics meaning",
+   "what is grenade by bruno mars about",
+   "explanation of bruno mars grenade song",
+   "bruno mars grenade meaning interpretation"
+  ],
+  "turn": "what is the meaning of grenade by bruno mars"
+ },
+ "6ba9e3c7861851f86db445dae3de5ce9f3723ff1": {
+  "history": [
+   "where does water go after it enters a storm drain",
+   "What is a catchbasin and how they are designed?",
+   "Does the basin really capture the litter  and debris from the water from the streets, roads, roofs?",
+   "Could be the water that enters a storm drain recycled and be used in the house chores like cleaning, gardening , etc?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "federal government guidelines laws sustainable storm drain water recycling",
+   "US federal regulations for designing sustainable storm drains for water reuse",
+   "are there federal laws or guidelines for building recyclable storm drainage systems",
+   "federal government standards for sustainable storm drains and water recycling",
+   "does the US government have policies on sustainable storm drains for water recycling"
+  ],
+  "turn": "And about on the level of the Federal government, do  they have guidelines or even a law to how to build more sustainable storm drain so the water could be recycled ?"
+ },
+ "6c04c74b0c19d5e2d207624f791cffdf9c4d8d5d": {
+  "history": [
+   "where was the cotton gin invented and where is it used today",
+   "Did the need for cotton workers increase?",
+   "By how much did the cotton gin increase production?",
+   "Was the invention of the cotton gin indirectly a cause of the American Civil War?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Was Great Britain reliant on cotton from the American South?",
+   "Did the British textile industry depend on Southern US cotton?",
+   "How dependent was Britain on cotton imports from the American South?",
+   "Did the United Kingdom rely on the American South for cotton supply?",
+   "Was Britain's economy dependent on Southern cotton during the 19th century?"
+  ],
+  "turn": "Was Britain relying on Southern cotton?"
+ },
+ "70081762e92e06746e1bc4338d30398529f37e4c": {
+  "history": [
+   "how does the mls all star game work?",
+   "When did the MSL All-Star game start?",
+   "MSL All-Star game seems to be a big sport event.  Have any teams from Europe played in the MSL All-Star Games ?",
+   "Talking about soccer, Can you name the best soccer players of all the time?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what makes a good soccer player",
+   "qualities of the best soccer players",
+   "what skills make a great soccer player",
+   "characteristics of a successful soccer player",
+   "how to define a good soccer player"
+  ],
+  "turn": "What  does it make a good soccer player?"
+ },
+ "70b4c4cc784accaab65296261d3e7402688c6d83": {
+  "history": [
+   "what is the defense of marriage act 1996"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "how is marriage defined",
+   "legal definition of marriage",
+   "how does the law define marriage",
+   "what is the definition of marriage",
+   "marriage definition in the United States"
+  ],
+  "turn": "How is marriage defined?"
+ },
+ "710bfdfba506765db505e888f75664e8b12471a4": {
+  "history": [
+   "why was the eastern roman empire called the byzantine empire",
+   "What was its religion?",
+   "When was reorganized?",
+   "Why it fall?",
+   "When was it found?",
+   "Stay within the boundaries of what is now known as Italy.",
+   "Who was the last Emperor?",
+   "When did it become Catholic?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Did the Byzantine Empire conquer Israel?",
+   "Did the Eastern Roman Empire conquer the territory of Israel?",
+   "Did the Byzantine Empire take control of Israel during its expansion?",
+   "Was Israel conquered by the Byzantine Empire?",
+   "Did the Eastern Roman Empire invade and conquer Israel?"
+  ],
+  "turn": "Did they conquer Israel?"
+ },
+ "71f168431a4dd3ca19ab371a6a00b8c1b8affbb9": {
+  "history": [
+   "how does the mls all star game work",
+   "What is it called outside of the USA?",
+   "Can women play it?",
+   "Which is the most popular?",
+   "Where does it originate from?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Is American football derived from soccer?",
+   "Did American football originate from association football?",
+   "Is American football descended from soccer?",
+   "Does American football come from soccer?",
+   "Was American football derived from association football?"
+  ],
+  "turn": "Is American football derived from it?"
+ },
+ "732c4f9fd83652fad06990df3142bddf8685ac6d": {
+  "history": [
+   "where was the cotton gin invented and where is it used today",
+   "Did the need for cotton workers increase?",
+   "By how much did the cotton gin increase production?",
+   "Was the invention of the cotton gin indirectly a cause of the American Civil War?",
+   "Was Britain relying on Southern cotton?",
+   "Modern cotton gins."
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "How did the end of slavery impact the use of cotton gins?",
+   "When did the use of slave labor end in the American cotton industry?",
+   "How did the transition away from slave labor affect cotton production?",
+   "What replaced slave labor in the modern cotton harvesting process?",
+   "How did the abolition of slavery change cotton farming operations?"
+  ],
+  "turn": "The end of use of slave labor."
+ },
+ "73f0b494d22e1a1066d6945ff81f34565aa24210": {
+  "history": [
+   "where was the cotton gin invented and where is it used today"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "did the invention of the cotton gin increase the need for cotton workers",
+   "did the demand for cotton plantation labor increase after the cotton gin was invented",
+   "how did the cotton gin affect the need for agricultural workers",
+   "did slavery and the need for cotton workers increase following the cotton gin invention",
+   "did the need for manual cotton pickers increase after the cotton gin"
+  ],
+  "turn": "Did the need for cotton workers increase?"
+ },
+ "7400a74a4e14c116cc53460f6347510599b1d6d7": {
+  "history": [
+   "why did the us demand trade with japan",
+   "So, are you saying that the petroleum dependance eventually caused Japan to start WWII?",
+   "What it called \"greater something\"?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "why did general douglas macarthur decide not to prosecute the japanese emperor as a war criminal after world war ii",
+   "reasons why douglas macarthur exempted Emperor Hirohito from war crimes prosecution",
+   "why was the japanese emperor not tried as a war criminal during the allied occupation",
+   "historical context for MacArthur sparing Emperor Hirohito from war crime charges",
+   "why did the allied occupation under macarthur protect the japanese emperor from criminal charges"
+  ],
+  "turn": "why MacArthur didn't criminalize the Emperor that time?"
+ },
+ "7485ea312ecc08256df12f968a7f0ef7e5072081": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what causes the different phases of the moon",
+   "why does the moon change shape",
+   "explanation of the lunar shapes and phases",
+   "what creates the different appearances of the moon",
+   "reasons for the changing shapes of the moon"
+  ],
+  "turn": "what makes the different shapes of the moon"
+ },
+ "755a07eb1a16ecae82c1b8b0fc27bfb5b685bf65": {
+  "history": [
+   "how does the mls all star game work?",
+   "When did the MSL All-Star game start?",
+   "MSL All-Star game seems to be a big sport event.  Have any teams from Europe played in the MSL All-Star Games ?",
+   "Talking about soccer, Can you name the best soccer players of all the time?",
+   "What  does it make a good soccer player?",
+   "Are Soccer still considered the most watched sports around the world?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Is American football as popular as soccer worldwide?",
+   "How does the popularity of American football compare to soccer globally?",
+   "Is American football considered a popular sport around the world like soccer?",
+   "What is the global popularity of American football compared to soccer?",
+   "How popular is American football globally relative to soccer?"
+  ],
+  "turn": "What can you say about American Football? Is i talso considered a popular sport as soccer?"
+ },
+ "75840c9f1659aff9063364ca310683fd9dc39a61": {
+  "history": [
+   "name the viceroy at the time of quit india movement",
+   "what did he do?",
+   "opposition leader for the movement",
+   "who is Patel?",
+   "how do you pronounce Vallabhbhai?",
+   "That is too bad.  Although the movement was non-violent, some ended up in violence, right?",
+   "population back then"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "when did the Indian economy start to grow rapidly after independence",
+   "timeline of Indian economic growth post independence",
+   "when did India experience economic boom after independence",
+   "year of economic blossoming in India after independence",
+   "when did the post independence Indian economy take off"
+  ],
+  "turn": "when was the time Indian economy blossomed after independence?"
+ },
+ "768e39ff4340cc7ccc80ae9399fdd7a9a1a046b5": {
+  "history": [
+   "when did the wall in berlin come down"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "When did the official reunification of Germany take place?",
+   "Official reunification of Germany date",
+   "What year was Germany officially reunified?",
+   "Date of German reunification",
+   "When did Germany become officially reunited after the fall of the Berlin Wall?"
+  ],
+  "turn": "When did the official reunification of Germany take place?"
+ },
+ "76d361de5232a86aa79c2dfa3712680b54f90851": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "where was the cotton gin invented",
+   "location of cotton gin invention",
+   "origins of the cotton gin invention",
+   "where is the cotton gin used today",
+   "current usage of the cotton gin"
+  ],
+  "turn": "where was the cotton gin invented and where is it used today"
+ },
+ "77062bc64f8ece2477cebfe9dba9d644794dfa50": {
+  "history": [
+   "name the viceroy at the time of quit india movement"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what actions did the viceroy take during the quit india movement",
+   "what did the viceroy do during the quit india movement",
+   "viceroy actions during the quit india movement",
+   "what role did the viceroy play in the quit india movement",
+   "what measures did the viceroy implement during the quit india movement"
+  ],
+  "turn": "what did he do?"
+ },
+ "77de6465a6f52767580db779801eba5824b9e3b4": {
+  "history": [
+   "What are the categories of people for which it is especially important to get a flu vaccine?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "greatest pandemics worldwide before COVID 2020",
+   "major historical pandemics before the year 2020",
+   "deadliest global pandemics prior to COVID 19",
+   "most severe worldwide pandemics in history before 2020",
+   "history of major global pandemics before COVID"
+  ],
+  "turn": "Can you tell me the greatest pandemics worldwide before  COVID in 2020?"
+ },
+ "7871c7b6c964f26f9095e5f77cf6a59e30cc48d1": {
+  "history": [
+   "What are the categories of people for which it is especially important to get a flu vaccine?",
+   "Can you tell me the greatest pandemics worldwide before  COVID in 2020?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "How many people did the HIV pandemic kill?",
+   "What is the death toll of the HIV pandemic?",
+   "How devastating was the HIV pandemic in terms of fatalities?",
+   "Did the HIV pandemic cause a high number of deaths?",
+   "What were the global mortality statistics for the HIV pandemic?"
+  ],
+  "turn": "What about HIV pandemic? did it kill many people?"
+ },
+ "78d35cc7b4f1a496aeae8d518ba12114ec4bf42f": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "difference between primary and archaeological sources",
+   "what distinguishes primary sources from archaeological sources",
+   "primary sources vs archaeological sources comparison",
+   "how do primary sources differ from archaeological sources",
+   "compare primary sources and archaeological sources"
+  ],
+  "turn": "what is the difference between primary and archaeological sources"
+ },
+ "792d36f59d038fa576ba075859bfc2602ed07046": {
+  "history": [
+   "where does water go after it enters a storm drain",
+   "What is a catchbasin and how they are designed?",
+   "Does the basin really capture the litter  and debris from the water from the streets, roads, roofs?",
+   "Could be the water that enters a storm drain recycled and be used in the house chores like cleaning, gardening , etc?",
+   "And about on the level of the Federal government, do  they have guidelines or even a law to how to build more sustainable storm drain so the water could be recycled ?",
+   "How does the storm drain work in the other parts of the world.",
+   "Do you have any information about how the ancient civilization deal with the stormwater?",
+   "Chaging the subject a little a bit,  are there many people worldwide without  proper sewage treatment?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "history of the first sewage treatment facilities",
+   "when was the first sewage treatment plant built",
+   "historical timeline of early sewage treatment systems",
+   "origins of municipal wastewater treatment facilities",
+   "when were the first modern sewage treatment plants constructed"
+  ],
+  "turn": "That is really surprised me. Do you have information when the first sewage treatment facilities  were built?"
+ },
+ "7939e29487d420eac1c26376fa3754beb8ae22c4": {
+  "history": [
+   "where do the arizona cardinals play this week",
+   "Do they play outside the US?",
+   "And Chicago?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "where do the chicago bears play this week",
+   "do the chicago bears play outside the US this week",
+   "where are the chicago bears playing their game this week",
+   "location of the chicago bears game this week",
+   "is the chicago bears game this week outside the united states"
+  ],
+  "turn": "And Chicago?"
+ },
+ "7d6b0b018d2b9aa63dbea77ac27f0a9323475534": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Were William Shakespeare's plays popular during his lifetime?",
+   "Did audiences enjoy Shakespeare's plays when he was alive?",
+   "Popularity of Shakespeare's plays during the Elizabethan era",
+   "Were Shakespeare's theatrical works successful while he was alive?",
+   "How well-received were Shakespeare's plays during his life?"
+  ],
+  "turn": "Were Shakespeare's plays popular when he was alive?"
+ },
+ "7e02c47a7b5c7b73936e6dce83df8e9a47110c32": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "where is bone marrow located in the human body and what is its function",
+   "bone marrow locations and functions in the body",
+   "what does bone marrow do and where is it found",
+   "locations of bone marrow and its biological role",
+   "what is the function of bone marrow and where does it occur"
+  ],
+  "turn": "where is bone marrow found what does it do for the body"
+ },
+ "7eff28a7a4cc20888c1b4906754cf00269702f63": {
+  "history": [
+   "why did the us demand trade with japan",
+   "So, are you saying that the petroleum dependance eventually caused Japan to start WWII?",
+   "What it called \"greater something\"?",
+   "why MacArthur didn't criminalize the Emperor that time?",
+   "As a result, do you think the country was better off?",
+   "I mean better off as a result of being occupied by US rather than USSR.",
+   "I think Soviet was very sneaky taking 2 northern islands just by joining the war in the 11th hour!"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "President Franklin D Roosevelt involvement in World War II Japan occupation",
+   "Roosevelt involvement in US policy toward Japan before World War 2",
+   "What was President Roosevelt's role regarding Japan prior to WWII",
+   "Roosevelt involvement in the events leading up to the US demand for trade with Japan",
+   "Franklin Roosevelt involvement in US-Japan relations before the war"
+  ],
+  "turn": "Roosevelt involvement"
+ },
+ "7f0ec1b4e3bf42f1e9d1c714dc7318897e06b677": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "which sport awards the oldest trophy in international sports",
+   "oldest trophy in international sports",
+   "what sport has the oldest international sporting trophy",
+   "oldest international sports competition trophy",
+   "sport with the oldest international trophy"
+  ],
+  "turn": "which sport awards the oldest trophy in international sports"
+ },
+ "809cea02d1dd0eb0e024ebeef88d264be1de4159": {
+  "history": [
+   "where is bone marrow found what does it do for the body"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "What happens when bone marrow does not function properly?",
+   "Medical consequences of bone marrow failure or dysfunction",
+   "What occurs if bone marrow stops working well?",
+   "Symptoms and effects of diseased or failing bone marrow",
+   "What happens to the body when bone marrow is unhealthy?"
+  ],
+  "turn": "What happens if it does not work well?"
+ },
+ "82c181395e03d79c8f33018f1669704219ba8781": {
+  "history": [
+   "where is bone marrow found what does it do for the body",
+   "What happens if it does not work well?",
+   "How is Sickle cell treated?",
+   "Will it kill me?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "How is a bone marrow transplant used to treat sickle cell disease?",
+   "Can a bone marrow transplant cure sickle cell anemia?",
+   "What is the bone marrow transplant procedure for sickle cell patients?",
+   "How effective is bone marrow transplantation as a treatment for sickle cell?",
+   "What are the risks and success rates of a bone marrow transplant for sickle cell?"
+  ],
+  "turn": "How about transplant?"
+ },
+ "869a7880a234ea66e741b5f554970e64bec0daf1": {
+  "history": [
+   "why did the us demand trade with japan",
+   "So, are you saying that the petroleum dependance eventually caused Japan to start WWII?",
+   "What it called \"greater something\"?",
+   "why MacArthur didn't criminalize the Emperor that time?",
+   "As a result, do you think the country was better off?",
+   "I mean better off as a result of being occupied by US rather than USSR."
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "why did the soviet union seize the northern islands from japan at the end of world war ii",
+   "soviet entry into the pacific war and capture of the northern territories",
+   "historical analysis of the soviet union taking northern islands from japan in 1945",
+   "why did the ussr take control of the kuril islands at the end of wwii",
+   "soviet union actions regarding northern islands japan wwii 11th hour"
+  ],
+  "turn": "I think Soviet was very sneaky taking 2 northern islands just by joining the war in the 11th hour!"
+ },
+ "873cc80ad71e644a9716c8bd7018bc59fdad20a6": {
+  "history": [
+   "which industry provides the largest employment in india",
+   "Agriculture seems very important to India",
+   "what does indian agriculture produce include?",
+   "do you think indian people working in agriculture industry make money",
+   "what is cashew kernels and cashew nut shell liquid?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "retail industry in India overview",
+   "retail sector in India growth and details",
+   "explain the retail market in India",
+   "Indian retail industry characteristics",
+   "retail business and sector in India"
+  ],
+  "turn": "can you explain more about the retail industry in india?"
+ },
+ "87af218a55f645c16c36dc3be7e525f4be77228c": {
+  "history": [
+   "where do the arizona cardinals play this week"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Do the Arizona Cardinals play outside the United States this week",
+   "Are the Arizona Cardinals playing an international game this week",
+   "Do the Arizona Cardinals have an overseas game scheduled for this week",
+   "Are the Arizona Cardinals playing outside of the US for their game this week",
+   "Is the Arizona Cardinals game this week located outside the United States"
+  ],
+  "turn": "Do the Arizona Cardinals play outside the US?"
+ },
+ "87cea58595b1fcc816fab7b2249c6d624a288d5d": {
+  "history": [
+   "robert louis stevenson a child's garden of verses",
+   "is a child's garden of verses only in English?",
+   "what are the contents of a child's garden of verses",
+   "any other famous poets you recommend me to know?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "E. E. Cummings biography and details",
+   "more information about the poet E. E. Cummings",
+   "E. E. Cummings life and literary work details",
+   "learn more about E. E. Cummings poetry",
+   "E. E. Cummings poet background and details"
+  ],
+  "turn": "can you provide more details of E. E. Cummings?"
+ },
+ "8a1ccdad93af5a40d2a17c8c2266edc6500c7698": {
+  "history": [
+   "what is the defense of marriage act 1996",
+   "How is marriage defined?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "how are weddings traditionally celebrated",
+   "wedding celebration customs and traditions",
+   "how do people celebrate weddings",
+   "typical wedding celebration practices",
+   "wedding ceremony and celebration methods"
+  ],
+  "turn": "How are weddings celebrated?"
+ },
+ "8a53301858ee76baf06ddfc6d2caba3cf9978b6c": {
+  "history": [
+   "robert louis stevenson a child's garden of verses",
+   "is a child's garden of verses only in English?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what are the contents of a child's garden of verses",
+   "table of contents a child's garden of verses",
+   "list of poems in a child's garden of verses",
+   "robert louis stevenson a child's garden of verses poem list",
+   "what poems are in a child's garden of verses"
+  ],
+  "turn": "what are the contents of a child's garden of verses"
+ },
+ "8b251193b0c296bab8927ee2065fcd9b805589f1": {
+  "history": [
+   "where does the penobscot river start and end",
+   "The West branch.",
+   "Are there any other important river systems?",
+   "Is this the best river for fishing in the country?",
+   "The Snake River is the longest river in the country.",
+   "Which is the largest river in America?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "What is the largest river in the continent of America",
+   "Largest river in North and South America continent",
+   "Which river is the biggest in the Americas",
+   "Largest river in the American continent",
+   "What is the largest river system in the Americas"
+  ],
+  "turn": "That was not my question. When I say \"America,\" I'm referring to the continent, not the United States of America."
+ },
+ "8b39114827c27667ec7edd238656a680f3e219ac": {
+  "history": [
+   "Where do guinea pigs sleep in the wild?",
+   "What do guinea pigs eat?",
+   "I meant c. tschudii specifically, but thank you for the information regarding the domesticated guinea pig."
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what are the predators of wild guinea pigs Cavia tschudii",
+   "do Cavia tschudii have natural predators in the wild",
+   "what animals hunt wild guinea pigs Cavia tschudii",
+   "Cavia tschudii predators in their natural habitat",
+   "predators of the wild guinea pig species Cavia tschudii"
+  ],
+  "turn": "Thanks for clarifying. Do they have predators?"
+ },
+ "8bfb01cf5209d55829aecbb6ab1948b78540085a": {
+  "history": [
+   "what is the great wall of China built out of",
+   "How long is the Wall?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Who was the enemy that the Great Wall of China was built to defend against?",
+   "Against which invaders was the Great Wall of China constructed?",
+   "What enemy did the builders of the Great Wall of China face?",
+   "Who were the adversaries that prompted the construction of the Great Wall of China?",
+   "Which enemies was the Great Wall of China designed to keep out?"
+  ],
+  "turn": "Who was the enemy?"
+ },
+ "8d467008ebdb5debbcde3564d93f95eb75c904cc": {
+  "history": [
+   "which industry provides the largest employment in india"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "does agriculture provide the largest employment in India",
+   "is agriculture the biggest employment sector in India",
+   "how much employment does agriculture provide in India",
+   "what is the role of agriculture in Indian employment",
+   "is agriculture the primary source of employment in India"
+  ],
+  "turn": "Agriculture seems very important to India"
+ },
+ "8fdec6913c86e0303031497b2670b1f37190c720": {
+  "history": [
+   "where does water go after it enters a storm drain",
+   "What is a catchbasin and how they are designed?",
+   "Does the basin really capture the litter  and debris from the water from the streets, roads, roofs?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "can storm drain water be recycled for household chores and gardening",
+   "is it possible to reuse stormwater runoff for domestic cleaning and watering plants",
+   "can water entering storm drains be treated and used for home chores",
+   "reuse of urban stormwater for domestic purposes like gardening and cleaning",
+   "can harvested storm drain water be used for household tasks"
+  ],
+  "turn": "Could be the water that enters a storm drain recycled and be used in the house chores like cleaning, gardening , etc?"
+ },
+ "9152b5dab9f6b6259221abfaa3559c26b936571d": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "why did the us demand trade with japan",
+   "reasons for us trade demands with japan",
+   "history of us forcing trade relations with japan",
+   "why did the united states want to trade with japan",
+   "motivations behind us demand to open trade with japan"
+  ],
+  "turn": "why did the us demand trade with japan"
+ },
+ "91e345b20ad824cf1ceec8a7f0a0e9f823571936": {
+  "history": [
+   "where does it snow the most in north carolina?",
+   "That means North Carolina has most the time tough winters with some much snow. What can you tell me about the  summer months. Are they enyoyable ?",
+   "Are you saying the North Carolina can get a lot  hurricane during the summer months?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what are the spring and fall seasons like in north carolina",
+   "north carolina weather in spring and fall",
+   "climate of north carolina during spring and autumn",
+   "are spring and fall enjoyable seasons in north carolina",
+   "what is the weather like in north carolina during spring and fall"
+  ],
+  "turn": "As Winter and summer are tough seasons with snow and hurricane, tornadoes, what can you tell me about spring and fall?"
+ },
+ "95360f62cf68310abb885f1553b3c1a11cd43de2": {
+  "history": [
+   "what is the great wall of China built out of",
+   "How long is the Wall?",
+   "Who was the enemy?",
+   "What is Qin Shi Huang known for?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "What did General Meng Tian do regarding the Great Wall of China?",
+   "What were the historical achievements and actions of Meng Tian?",
+   "What role did Meng Tian play in the construction of the Great Wall?",
+   "What did the historical figure Meng Tian accomplish?",
+   "What are the historical contributions of Meng Tian?"
+  ],
+  "turn": "What did Meng Tian do?"
+ },
+ "9742aa96b9f255a619864262c186835391446863": {
+  "history": [
+   "which sport awards the oldest trophy in international sports",
+   "As America's Cup is the oldest trophy awarded to sailing, May I ask you what is the oldest sport invented and if  it is still been currently playing ?",
+   "Soccer is a very popular sport and watched by millions around the world. What is the difference between soccer and american football that is also very popular and viewed  by thousands around the world?",
+   "Are those sport only played by man or woman also can play  them?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "can anyone become a good soccer player",
+   "what skills are needed to be a good soccer player",
+   "how to become a good soccer player",
+   "requirements to be a good soccer player",
+   "can I be a good soccer player"
+  ],
+  "turn": "Do you think i can be a good soccer player?"
+ },
+ "979b65952710db8bd453e0cfac75bd18a260e53b": {
+  "history": [
+   "where does it snow the most in north carolina?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "What are the summer months like in North Carolina?",
+   "Are summers enjoyable in North Carolina?",
+   "What is the weather during summer in North Carolina?",
+   "Tell me about the climate in North Carolina during the summer.",
+   "Is summer a good time to visit North Carolina?"
+  ],
+  "turn": "That means North Carolina has most the time tough winters with some much snow. What can you tell me about the  summer months. Are they enyoyable ?"
+ },
+ "97c12a10978a7614b56d3f555a1970993da78f67": {
+  "history": [
+   "what makes the different shapes of the moon",
+   "What is the distance between the moon and earth?",
+   "How old is the moon?",
+   "What was the longest mission to the moon?",
+   "what makes monkeys suitable for space travel?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "What samples were collected from the surface of the moon",
+   "What materials were gathered during lunar surface missions",
+   "What objects and samples did astronauts collect on the moon",
+   "What did missions bring back from the moon's surface",
+   "What was retrieved from the surface of the moon"
+  ],
+  "turn": "What was collected from the surface of the moon?"
+ },
+ "995c2eeff8ab83f2a824ccdb56b1139c1751da91": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "types and causes of male and female infertility",
+   "what are the different types and causes of infertility in men and women",
+   "male and female infertility classification and causes",
+   "reasons for infertility in males and females",
+   "medical causes and types of infertility in both genders"
+  ],
+  "turn": "types and causes of male and female infertility"
+ },
+ "9abb9adaf8f3915a12aee80b3b35b2a55e2a55e6": {
+  "history": [
+   "robert louis stevenson a child's garden of verses"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "is a child's garden of verses available in languages other than english",
+   "is robert louis stevenson a child's garden of verses translated into other languages",
+   "what languages has a child's garden of verses been translated into",
+   "are there foreign language translations of a child's garden of verses",
+   "does a child's garden of verses exist in languages besides english"
+  ],
+  "turn": "is a child's garden of verses only in English?"
+ },
+ "9b93d5ade8b285db6f32f66805f5221fa2c9f865": {
+  "history": [
+   "where does the penobscot river start and end",
+   "The West branch.",
+   "Are there any other important river systems?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Is the Penobscot River the best river for fishing in the United States?",
+   "Best river for fishing in the country Penobscot River",
+   "Is the Penobscot River considered the top fishing river in the US?",
+   "Penobscot River fishing compared to the best rivers in the country",
+   "Top rated fishing rivers in the United States including the Penobscot River"
+  ],
+  "turn": "Is this the best river for fishing in the country?"
+ },
+ "9c0afddb57ce60b3ee0fc28af9ff2da331d7a3c0": {
+  "history": [
+   "where does doctor strange get his powers from",
+   "did he always have powers? what was he before?",
+   "how many films does he appear in",
+   "wasn't he in captain america?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Why was Doctor Strange referenced in Captain America",
+   "Reason for Doctor Strange reference in Captain America film",
+   "Why did Captain America include a reference to Doctor Strange",
+   "Context of Doctor Strange mention in Captain America",
+   "Why was Doctor Strange mentioned in the Captain America movie"
+  ],
+  "turn": "I see thanks for explaining. Why was he referenced in the film?"
+ },
+ "9ca846ba70993d487b146e797639299251e57ea6": {
+  "history": [
+   "where does it snow the most in north carolina?",
+   "That means North Carolina has most the time tough winters with some much snow. What can you tell me about the  summer months. Are they enyoyable ?",
+   "Are you saying the North Carolina can get a lot  hurricane during the summer months?",
+   "As Winter and summer are tough seasons with snow and hurricane, tornadoes, what can you tell me about spring and fall?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what are the spring and fall seasons like in the Appalachian Mountains",
+   "Appalachian Mountains weather and climate in spring and fall",
+   "tell me about spring and fall in the Appalachian Mountains region",
+   "how are spring and fall in the Appalachian Mountains",
+   "Appalachian Mountains seasonal weather for spring and autumn"
+  ],
+  "turn": "Appalachian Mountains"
+ },
+ "9dca5a888f251a29e51333c9efd41680e4474c43": {
+  "history": [
+   "which sport awards the oldest trophy in international sports",
+   "As America's Cup is the oldest trophy awarded to sailing, May I ask you what is the oldest sport invented and if  it is still been currently playing ?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "difference between soccer and american football",
+   "how does soccer differ from american football",
+   "compare soccer and american football rules and gameplay",
+   "what are the main differences between association football and american football",
+   "contrast soccer and american football"
+  ],
+  "turn": "Soccer is a very popular sport and watched by millions around the world. What is the difference between soccer and american football that is also very popular and viewed  by thousands around the world?"
+ },
+ "9ed4b643b522e87a45692143861c2cb93edec7f5": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Arizona Cardinals home stadium location",
+   "where do the Arizona Cardinals play their home games",
+   "Arizona Cardinals stadium address",
+   "location of the Arizona Cardinals football team stadium",
+   "where is the Arizona Cardinals stadium located"
+  ],
+  "turn": "where do the arizona cardinals play"
+ },
+ "9f1a255bce7c65a6826a79a854422a39d6a3eacb": {
+  "history": [
+   "Where do guinea pigs sleep in the wild?",
+   "What do guinea pigs eat?",
+   "I meant c. tschudii specifically, but thank you for the information regarding the domesticated guinea pig.",
+   "Thanks for clarifying. Do they have predators?",
+   "I'm told guinea pigs are raised for human consumption. Is that true?",
+   "human guinea pig"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "human guinea pig vitamin C research",
+   "guinea pigs used in vitamin C research",
+   "vitamin C history and guinea pig experiments",
+   "why are guinea pigs used for vitamin C studies",
+   "guinea pig role in vitamin C scientific research"
+  ],
+  "turn": "Vitamin C research"
+ },
+ "a1e13c59e13eed33561247aed2fa689f3dffb658": {
+  "history": [
+   "which industry provides the largest employment in india",
+   "Agriculture seems very important to India",
+   "what does indian agriculture produce include?",
+   "do you think indian people working in agriculture industry make money"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what are cashew kernels and cashew nut shell liquid",
+   "definition of cashew kernels and cashew nut shell liquid",
+   "explain cashew kernels and cashew nut shell liquid",
+   "what is cashew nut shell liquid and cashew kernels",
+   "meaning of cashew kernels and cashew nut shell liquid"
+  ],
+  "turn": "what is cashew kernels and cashew nut shell liquid?"
+ },
+ "a33b63754decf0f040f95f6d8b51cdf7894ee9b0": {
+  "history": [
+   "What are the categories of people for which it is especially important to get a flu vaccine?",
+   "Can you tell me the greatest pandemics worldwide before  COVID in 2020?",
+   "What about HIV pandemic? did it kill many people?",
+   "How did  HIV originated and where did start the first cases?",
+   "Is there a cure for HIV?",
+   "Is Herpes a lethal disease and how is it transmitted?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Is there a vaccine available for herpes and how can it be prevented?",
+   "What are the prevention methods and vaccines for the herpes virus?",
+   "Can herpes be prevented and is there a vaccine for it?",
+   "How to prevent herpes and does a vaccine exist for it?",
+   "What are the ways to prevent herpes and are there any vaccines?"
+  ],
+  "turn": "Is there a vaccine for Herper, how can it be prevent?"
+ },
+ "a5bb6660d5823b1aa16e14f69367041b24f48675": {
+  "history": [
+   "Where do guinea pigs sleep in the wild?",
+   "What do guinea pigs eat?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "where do wild cavia tschudii sleep",
+   "cavia tschudii natural habitat sleeping habits",
+   "where does the wild mountain cavy sleep",
+   "cavia tschudii sleeping locations in the wild",
+   "wild guinea pig cavia tschudii resting places"
+  ],
+  "turn": "I meant c. tschudii specifically, but thank you for the information regarding the domesticated guinea pig."
+ },
+ "a677555e192186401391847c93669cde024892a3": {
+  "history": [
+   "where is bone marrow found what does it do for the body",
+   "What happens if it does not work well?",
+   "How is Sickle cell treated?",
+   "Will it kill me?",
+   "How about transplant?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Is Huntington's disease an inherited condition?",
+   "Is Huntington's disease genetic?",
+   "Does Huntington's disease run in families?",
+   "Is Huntington's disease passed down from parents to children?",
+   "Is Huntington's disease inherited?"
+  ],
+  "turn": "Is Huntington's disease also inherited?"
+ },
+ "a753fc8e01769a29c40cbb43106d51f31fff2cf2": {
+  "history": [
+   "how much were the actors in friends paid",
+   "oh my god, I am a big fan of Jennifer Aniston. how was she introduced in Friends",
+   "how many seasons does Friends have? When did it start and end?",
+   "did Friends air in different countries? I also wonder if the show earned any awards",
+   "how was Friends final episode? are the actors still get along after the final episode?",
+   "I am very curious about why each members are receiving the same pay. Isn't it usually different?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "where was the television show Friends filmed",
+   "filming locations for the sitcom Friends",
+   "where did they shoot the TV series Friends",
+   "Friends TV show production locations",
+   "where was the set of Friends located"
+  ],
+  "turn": "where was the Friends filmed?"
+ },
+ "a7f53525f0d2ab1190d011f5d37f268da3ecac22": {
+  "history": [
+   "which sport awards the oldest trophy in international sports",
+   "As America's Cup is the oldest trophy awarded to sailing, May I ask you what is the oldest sport invented and if  it is still been currently playing ?",
+   "Soccer is a very popular sport and watched by millions around the world. What is the difference between soccer and american football that is also very popular and viewed  by thousands around the world?",
+   "Are those sport only played by man or woman also can play  them?",
+   "Do you think i can be a good soccer player?",
+   "I can see that play any sport soccer any other needs some talend and a lot practices and some body, but is there any special diet become a good player?",
+   "Are you saying that eat meat is not good  for those play sports?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "is a meat diet bad for athletes",
+   "what is the best diet for soccer players",
+   "do athletes need to eat meat to perform well",
+   "sports nutrition and diet for athletes",
+   "recommended diet for playing sports"
+  ],
+  "turn": "You are right, a good diet is important for any person that wish to play any sport."
+ },
+ "a7fd7fece4fc730a2715cb7e413c72ae374b99db": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "The Who band",
+   "The Who rock band history",
+   "The Who music group",
+   "Band members of The Who",
+   "The Who discography"
+  ],
+  "turn": "the who band"
+ },
+ "a9f4168fb28dd737de8288d68d2845da0a693ed7": {
+  "history": [
+   "Were Shakespeare's plays popular when he was alive?",
+   "How many film adaptations of Hamlet are there?",
+   "What about Romeo and Juliet?",
+   "Hamnet",
+   "What was Shakespeare's most popular historical play?",
+   "A horse , a horse , my kingdom for a horse !",
+   "Is Richard III historically accurate?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what is the most popular Shakespearean play in China",
+   "which Shakespeare play is most popular in China",
+   "most popular Shakespeare work in China",
+   "Shakespeare plays popularity in China",
+   "top Shakespearean play in China"
+  ],
+  "turn": "what is the most popular Shakespearean play in China?"
+ },
+ "ac4d6f5f72cf9623ffe386f6f0b05acaa6274387": {
+  "history": [
+   "what is the great wall of China built out of",
+   "How long is the Wall?",
+   "Who was the enemy?",
+   "What is Qin Shi Huang known for?",
+   "What did Meng Tian do?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Is the Great Wall of China a tourist destination today",
+   "Can tourists visit the Great Wall of China now",
+   "Is the Great Wall of China open for tourism",
+   "Great Wall of China modern tourism status",
+   "Do people visit the Great Wall of China today"
+  ],
+  "turn": "Is the Great Wall of China a tourist destination today?"
+ },
+ "acd877175f5a29000ca99dd59a9fa38089bfc984": {
+  "history": [
+   "what is the difference between primary and archaeological sources",
+   "primary sources in history",
+   "archaeological discoveries and colonialists",
+   "Celts",
+   "Talking about the Celts, what is the importance of them in history?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "can primary sources be used in literature",
+   "use of primary sources in literary analysis",
+   "are primary sources used for literature",
+   "can literary works be considered primary sources",
+   "primary sources in the study of literature"
+  ],
+  "turn": "Going back to primary source, can it be used in literature"
+ },
+ "ad81e9bb396cf8dc1d8715fbd6648acb7b907866": {
+  "history": [
+   "how much were the actors in friends paid",
+   "oh my god, I am a big fan of Jennifer Aniston. how was she introduced in Friends",
+   "how many seasons does Friends have? When did it start and end?",
+   "did Friends air in different countries? I also wonder if the show earned any awards"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "how was the final episode of Friends received and do the cast members still get along",
+   "what happened in the last episode of Friends and are the actors still friends today",
+   "reviews of the Friends series finale and the current relationship status of the cast",
+   "how did Friends end and do the main actors still stay in touch",
+   "details about the final episode of Friends and whether the actors are still friends"
+  ],
+  "turn": "how was Friends final episode? are the actors still get along after the final episode?"
+ },
+ "adfcf8b277314de7428143bd972cbe0572d135df": {
+  "history": [
+   "Where do guinea pigs sleep in the wild?",
+   "where does Domestic guinea pigs live and what does Domestic guinea pigs activity look like?",
+   "more about guinea pig appearance or body",
+   "can you clarify the breed here? is there different species of Guinea pig? maybe they are from different origin?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "why are guinea pigs called pigs",
+   "origin of the name guinea pig",
+   "etymology of why guinea pigs are named pigs",
+   "reasons behind the name guinea pig",
+   "why is the animal guinea pig called a pig"
+  ],
+  "turn": "why is Guinea pig called pig?"
+ },
+ "af05cc83c9266082aa3100584e6716922e62d76f": {
+  "history": [
+   "what makes the different shapes of the moon",
+   "What is the distance between the moon and earth?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "how old is the moon",
+   "what is the age of the moon",
+   "when was the moon formed",
+   "moon age in years",
+   "how many years old is the moon"
+  ],
+  "turn": "How old is the moon?"
+ },
+ "b1b939ab785824df583fa12d58ea08756cbd564f": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what is the defense of marriage act 1996",
+   "Defense of Marriage Act 1996 definition",
+   "DOMA 1996 overview",
+   "what was the 1996 defense of marriage act",
+   "explain the defense of marriage act of 1996"
+  ],
+  "turn": "what is the defense of marriage act 1996"
+ },
+ "b2b0c4c29574b08ffd3784a00e475826c8f6ea36": {
+  "history": [
+   "what is the meaning of grenade by bruno mars",
+   "Are you able to tell me who were the writers  of the song and also who were its performers?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "when was the song grenade by bruno mars released",
+   "release date of grenade by bruno mars",
+   "what year was bruno mars grenade released",
+   "grenade bruno mars release date",
+   "when did bruno mars come out with the song grenade"
+  ],
+  "turn": "Do you know when the song was released?"
+ },
+ "b39c28a8d83738442e1ccd661034c86606fe53a8": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "where do the arizona cardinals play this week",
+   "arizona cardinals upcoming game location this week",
+   "what stadium are the arizona cardinals playing in this week",
+   "arizona cardinals schedule this week venue",
+   "where is the arizona cardinals game being played this week"
+  ],
+  "turn": "where do the arizona cardinals play this week"
+ },
+ "b4ace243c7b0d44bbeb08e9d1d638f17ebc52358": {
+  "history": [
+   "where do the arizona cardinals play"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Do the Arizona Cardinals play outside the United States?",
+   "Are any Arizona Cardinals games played internationally?",
+   "Do the Arizona Cardinals ever play games outside of the US?",
+   "Is the Arizona Cardinals stadium located outside the United States?",
+   "Do the Arizona Cardinals play home games outside the US?"
+  ],
+  "turn": "Do they play outside the US?"
+ },
+ "b4c58bec35008820629033c05411cb9df1454ebd": {
+  "history": [
+   "why was the eastern roman empire called the byzantine empire",
+   "What was its religion?",
+   "When was reorganized?",
+   "Why it fall?",
+   "When was it found?",
+   "Stay within the boundaries of what is now known as Italy."
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Who was the last Emperor of the Byzantine Empire?",
+   "Who was the final ruler of the Eastern Roman Empire?",
+   "Last emperor of the Byzantine Empire",
+   "Who was the last emperor of the Eastern Roman Empire within Italy?",
+   "Name of the final Byzantine Emperor"
+  ],
+  "turn": "Who was the last Emperor?"
+ },
+ "b5062336e47029a34e72c3b1d16075c1977bf912": {
+  "history": [
+   "how much were the actors in friends paid",
+   "oh my god, I am a big fan of Jennifer Aniston. how was she introduced in Friends"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "how many seasons of Friends are there and what are the start and end dates",
+   "Friends TV show total number of seasons, premiere date, and finale date",
+   "how long did Friends run for, including the number of seasons and broadcast dates",
+   "Friends series duration: total seasons, start year, and end year",
+   "what is the total season count of Friends and when did it begin and finish"
+  ],
+  "turn": "how many seasons does Friends have? When did it start and end?"
+ },
+ "b58d54c9c65e61a29604795830a0d40ce3ed7789": {
+  "history": [
+   "which sport awards the oldest trophy in international sports",
+   "As America's Cup is the oldest trophy awarded to sailing, May I ask you what is the oldest sport invented and if  it is still been currently playing ?",
+   "Soccer is a very popular sport and watched by millions around the world. What is the difference between soccer and american football that is also very popular and viewed  by thousands around the world?",
+   "Are those sport only played by man or woman also can play  them?",
+   "Do you think i can be a good soccer player?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what is the special diet for soccer players",
+   "what nutrition and diet do professional soccer players need",
+   "recommended diet to become a good soccer player",
+   "what should a soccer player eat for training and performance",
+   "diet and nutrition requirements for playing soccer well"
+  ],
+  "turn": "I can see that play any sport soccer any other needs some talend and a lot practices and some body, but is there any special diet become a good player?"
+ },
+ "b5f064b29dad23c5051d9b64869bf9a4fa561029": {
+  "history": [
+   "Were Shakespeare's plays popular when he was alive?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "how many film adaptations of Hamlet exist",
+   "total number of Hamlet movies",
+   "how many times has Hamlet been adapted for film",
+   "number of cinematic adaptations of Shakespeare's Hamlet",
+   "how many movie versions of Hamlet are there"
+  ],
+  "turn": "How many film adaptations of Hamlet are there?"
+ },
+ "b8f6939e105487c2497e52596e9be19e4eb395ed": {
+  "history": [
+   "what is the difference between primary and archaeological sources",
+   "primary sources in history",
+   "archaeological discoveries and colonialists",
+   "Celts"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "historical importance of the Celts",
+   "what is the significance of the Celts in history",
+   "Celtic history and historical impact",
+   "why are the Celts important historically",
+   "role of the Celts in ancient history"
+  ],
+  "turn": "Talking about the Celts, what is the importance of them in history?"
+ },
+ "b95924a6eebff0f2bc01e18e15adc712f8a8311c": {
+  "history": [
+   "Where do guinea pigs sleep in the wild?",
+   "What do guinea pigs eat?",
+   "I meant c. tschudii specifically, but thank you for the information regarding the domesticated guinea pig.",
+   "Thanks for clarifying. Do they have predators?",
+   "I'm told guinea pigs are raised for human consumption. Is that true?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "are guinea pigs raised for human consumption",
+   "do humans eat guinea pigs",
+   "is guinea pig meat eaten by humans",
+   "are guinea pigs farmed for food",
+   "human consumption of guinea pigs"
+  ],
+  "turn": "human guinea pig"
+ },
+ "b9be087786a7e3ef70f08eee2adf8d9e028a6111": {
+  "history": [
+   "when did the wall in berlin come down",
+   "When did the official reunification of Germany take place?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "How many people died trying to cross the Berlin Wall?",
+   "Death toll of people attempting to cross the Berlin Wall",
+   "Number of fatalities at the Berlin Wall during its existence",
+   "How many casualties were there at the Berlin Wall?",
+   "Statistics on deaths caused by the Berlin Wall"
+  ],
+  "turn": "How many people died trying to cross the Berlin Wall?"
+ },
+ "bcc8f06533939e4969b2c8b24909f73194ee7275": {
+  "history": [
+   "what is the defense of marriage act 1996",
+   "How is marriage defined?",
+   "How are weddings celebrated?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "meaning of breaking the glass at a Jewish wedding",
+   "why do Jews break a glass during wedding ceremonies",
+   "significance of the broken glass tradition in Jewish weddings",
+   "what does breaking the glass symbolize in Judaism wedding",
+   "Jewish wedding tradition breaking the glass meaning"
+  ],
+  "turn": "What is the meaning of the glass being broken at a Jewish wedding?"
+ },
+ "be5d0c889ca9520005fc69aa39042cfa018b14ee": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "when did the berlin wall fall",
+   "berlin wall demolition date",
+   "what year did the wall in berlin come down",
+   "date of the fall of the berlin wall",
+   "when was the berlin wall torn down"
+  ],
+  "turn": "when did the wall in berlin come down"
+ },
+ "bf1e3c19cad43104a25c2fd240b39b8a3bdbbc8e": {
+  "history": [
+   "where do the arizona cardinals play this week",
+   "Do the Arizona Cardinals play outside the US?",
+   "Are the Arizona Cardinals and the Chicago Cardinals the same team?",
+   "How many teams are in the NFL?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "How many teams qualify for the NFL playoffs?",
+   "Number of teams in the National Football League playoffs",
+   "NFL playoff team count",
+   "How many NFL teams make the playoffs?",
+   "Total number of teams in the NFL postseason"
+  ],
+  "turn": "How many teams are in the NFL playoffs?"
+ },
+ "bf30b6b6120cd0319e99afcf830d36baa829bcc6": {
+  "history": [
+   "who takes photos of planes in the air",
+   "No, I meant photos in the air.",
+   "So does that mean pilot of the second aircraft also acts as a photographer?",
+   "Is air-to-air phtography more difficult that ground-to-air?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what are the different types of aviation photography",
+   "what genres of aviation photography exist besides air-to-air and ground-to-air",
+   "categories of aviation photography",
+   "types of aircraft photography",
+   "what are other styles of aviation photography"
+  ],
+  "turn": "are there any other types of aviation photography?"
+ },
+ "bf5f2f11c5bdb7f00f6c3111be0e8209ffd2749d": {
+  "history": [
+   "Were Shakespeare's plays popular when he was alive?",
+   "How many film adaptations of Hamlet are there?",
+   "What about Romeo and Juliet?",
+   "Hamnet",
+   "What was Shakespeare's most popular historical play?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "A horse, a horse, my kingdom for a horse play",
+   "Which Shakespeare play has the quote a horse a horse my kingdom for a horse",
+   "A horse a horse my kingdom for a horse origin",
+   "What character says a horse a horse my kingdom for a horse",
+   "A horse a horse my kingdom for a horse Shakespeare"
+  ],
+  "turn": "A horse , a horse , my kingdom for a horse !"
+ },
+ "bffb7e13e289337287d991076a4add12847a7aff": {
+  "history": [
+   "Were Shakespeare's plays popular when he was alive?",
+   "How many film adaptations of Hamlet are there?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "How many film adaptations of Romeo and Juliet are there?",
+   "Number of Romeo and Juliet movie versions",
+   "How many times has Romeo and Juliet been adapted into a film?",
+   "Total film adaptations of Romeo and Juliet",
+   "How many movies are based on Romeo and Juliet?"
+  ],
+  "turn": "What about Romeo and Juliet?"
+ },
+ "c05ad8219d7e21ffd914bb87d431634d1e402c4e": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "where does the Penobscot River start and end",
+   "Penobscot River source and mouth location",
+   "origin and termination of the Penobscot River",
+   "where does the Penobscot River begin and flow into",
+   "Penobscot River starting point and ending point"
+  ],
+  "turn": "where does the penobscot river start and end"
+ },
+ "c3bc358a7d533a3511c0e58132e6a71013a4e9ec": {
+  "history": [
+   "types and causes of male and female infertility",
+   "How many years, think about adoption?",
+   "Regional differences",
+   "chemo and fertility,  before puberty, still?",
+   "any good idea to this?",
+   "Enough for a chemo and infertility, is this a hereditary?",
+   "By the way, when was the vitro conception developed?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "is being an egg donor a profitable business",
+   "financial compensation for egg donors business model",
+   "how much money do egg donors make",
+   "is egg donation a lucrative industry",
+   "economic aspects of the egg donation business"
+  ],
+  "turn": "egg donor a good business?"
+ },
+ "c4556b94e07081d03f62925ff08a2102130be10c": {
+  "history": [
+   "what makes the different shapes of the moon",
+   "What is the distance between the moon and earth?",
+   "How old is the moon?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "What was the longest mission to the moon?",
+   "longest lunar mission duration",
+   "longest manned mission to the moon",
+   "what is the longest space mission to the moon",
+   "longest duration moon landing mission"
+  ],
+  "turn": "What was the longest mission to the moon?"
+ },
+ "c46ef0f5fd10baca1a29723ab32841800945b022": {
+  "history": [
+   "where do the arizona cardinals play this week",
+   "Do they play outside the US?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "do the Arizona cardinals play outside the US not in Chicago",
+   "is the Arizona cardinals game this week outside the US and not in Chicago",
+   "are the Arizona cardinals playing an international game this week that is not in Chicago",
+   "does the Arizona cardinals international game this week take place somewhere other than Chicago",
+   "is the Arizona cardinals game this week outside the United States and not the Chicago venue"
+  ],
+  "turn": "not the Chicago one"
+ },
+ "c50c9f6e43426bcb6324c036027fd1c4dc8b0b06": {
+  "history": [
+   "what is the difference between primary and archaeological sources",
+   "primary sources in history",
+   "archaeological discoveries and colonialists"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Celts archaeological sources and primary sources",
+   "primary sources on the Celts in history",
+   "archaeological discoveries related to the Celts",
+   "who were the Celts according to historical and archaeological evidence",
+   "Celtic history and archaeological finds"
+  ],
+  "turn": "Celts"
+ },
+ "c5e2ffffe70a4e8986c2c75ff46f984d9db445a0": {
+  "history": [
+   "what is the meaning of grenade by bruno mars",
+   "Are you able to tell me who were the writers  of the song and also who were its performers?",
+   "Do you know when the song was released?",
+   "Did Grenade by Bruno Mars become a hit?",
+   "Did Bruno Mars perform at the Super Bowl?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "singers who performed at the Super Bowl halftime show in recent years",
+   "recent performers at the Super Bowl halftime show",
+   "who performed in the Super Bowl halftime show in the last couple of years",
+   "list of recent Super Bowl halftime show artists",
+   "Super Bowl halftime show performers past few years"
+  ],
+  "turn": "Speaking about Super Bowl half time show, which  singers had performed in the show in the last couple years?"
+ },
+ "c84a5442f121dcb15b54ecd4635989fb5bc1d5b7": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "arizona not chicago",
+   "arizona instead of chicago",
+   "difference between arizona and chicago",
+   "arizona vs chicago",
+   "compare arizona and chicago"
+  ],
+  "turn": "arizona not chicago "
+ },
+ "c9851cb387c2d4994061b2d997a02610e4cf92ff": {
+  "history": [
+   "when did the wall in berlin come down",
+   "When did the official reunification of Germany take place?",
+   "How many people died trying to cross the Berlin Wall?",
+   "How did people try to escape?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Did all government agencies move to Berlin after the reunification of Germany?",
+   "Were all West German government agencies relocated to Berlin?",
+   "Did the relocation of the German government to Berlin include all agencies?",
+   "Did every government agency transfer to Berlin following German reunification?",
+   "Was Berlin made the sole home for all government agencies after reunification?"
+  ],
+  "turn": "Did all government agencies move to Berlin"
+ },
+ "c991b052f021332d75b91bb694384a8b4d0547e6": {
+  "history": [
+   "What are the categories of people for which it is especially important to get a flu vaccine?",
+   "Can you tell me the greatest pandemics worldwide before  COVID in 2020?",
+   "What about HIV pandemic? did it kill many people?",
+   "How did  HIV originated and where did start the first cases?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Is there a cure for HIV",
+   "Can HIV be cured currently",
+   "What is the cure for the HIV virus",
+   "Are medical researchers able to cure HIV infection",
+   "Medical treatments and cures available for HIV"
+  ],
+  "turn": "Is there a cure for HIV?"
+ },
+ "c9b0c76e115bfcfc4f71d96a9d92b1303a8a679b": {
+  "history": [
+   "name the viceroy at the time of quit india movement",
+   "what did he do?",
+   "opposition leader for the movement"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "who is Sardar Vallabhbhai Patel",
+   "biography of Vallabhbhai Patel",
+   "who is Patel",
+   "Patel historical figure India",
+   "Vallabhbhai Patel introduction"
+  ],
+  "turn": "who is Patel?"
+ },
+ "cbe6034a83c0136a4b86c8c9f4b04bf65b224176": {
+  "history": [
+   "where does the penobscot river start and end",
+   "The West branch.",
+   "Are there any other important river systems?",
+   "Is this the best river for fishing in the country?",
+   "The Snake River is the longest river in the country.",
+   "Which is the largest river in America?",
+   "That was not my question. When I say \"America,\" I'm referring to the continent, not the United States of America."
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "navigable rivers in the United States",
+   "what rivers in the USA are navigable for boats",
+   "list of navigable rivers in the United States",
+   "which American rivers are navigable",
+   "navigable waterway systems in the US"
+  ],
+  "turn": "Which rivers are navigable in the USA?"
+ },
+ "ccab9d1b14ddb6b4565d06aff1d8605652e7c3b7": {
+  "history": [
+   "when did the wall in berlin come down",
+   "When did the official reunification of Germany take place?",
+   "How many people died trying to cross the Berlin Wall?",
+   "How did people try to escape?",
+   "Did all government agencies move to Berlin"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "who was the leader of East Germany when the Berlin Wall fell",
+   "East Germany head of state during the fall of the Berlin Wall",
+   "who governed East Germany in 1989",
+   "East German leader at the time of the Berlin Wall collapse",
+   "who was in charge of the German Democratic Republic when the wall came down"
+  ],
+  "turn": "Who was running East Germany when the wall came down"
+ },
+ "ce22e2ebcd71895ac8e60ba93bb657af1d3fbe1e": {
+  "history": [
+   "where do the arizona cardinals play this week",
+   "Do the Arizona Cardinals play outside the US?",
+   "Are the Arizona Cardinals and the Chicago Cardinals the same team?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "How many teams are in the NFL?",
+   "Total number of NFL teams",
+   "NFL league team count",
+   "How many franchises play in the National Football League?",
+   "Number of teams currently in the NFL"
+  ],
+  "turn": "How many teams are in the NFL?"
+ },
+ "cf46802a4103f4db0d9b212a5e1ac4d2a41b4ce6": {
+  "history": [
+   "where does doctor strange get his powers from",
+   "did he always have powers? what was he before?",
+   "how many films does he appear in",
+   "wasn't he in captain america?",
+   "I see thanks for explaining. Why was he referenced in the film?",
+   "does he have an infinity gem",
+   "how many stones are there"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what is the collection of all infinity stones called in marvel",
+   "what do you call it when all infinity stones are together",
+   "what is the name of the object that holds all the infinity stones",
+   "what is the gauntlet that holds the infinity stones called",
+   "what is the collective name for all infinity gems together"
+  ],
+  "turn": "the stones are really cool! what is it called again when the stones are together"
+ },
+ "cfc84f537f61ee6751e13eeaaba13c56ae90806c": {
+  "history": [
+   "which industry provides the largest employment in india",
+   "Agriculture seems very important to India"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what are the main products of Indian agriculture",
+   "what does Indian agriculture produce",
+   "major agricultural products in India",
+   "what crops and goods are produced by Indian agriculture",
+   "Indian agriculture production breakdown"
+  ],
+  "turn": "what does indian agriculture produce include?"
+ },
+ "d00b0a2b247ca3f5976cb343b4aca74091e16f09": {
+  "history": [
+   "where does it snow the most in north carolina?",
+   "That means North Carolina has most the time tough winters with some much snow. What can you tell me about the  summer months. Are they enyoyable ?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Does North Carolina experience many hurricanes during the summer months?",
+   "Are hurricanes common in North Carolina in the summer?",
+   "Does North Carolina get a lot of hurricane activity in the summer?",
+   "What is the frequency of hurricanes in North Carolina during summer?",
+   "Are summer hurricanes common in North Carolina?"
+  ],
+  "turn": "Are you saying the North Carolina can get a lot  hurricane during the summer months?"
+ },
+ "d26e40fd5d6b27bd700b6abc689fd00929a12636": {
+  "history": [
+   "how does the mls all star game work",
+   "What is it called outside of the USA?",
+   "Can women play it?",
+   "Which is the most popular?",
+   "Where does it originate from?",
+   "Is American football derived from it?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "countries where American football is popular",
+   "global popularity of American football",
+   "where is American football played the most",
+   "regions with high popularity for American football",
+   "most popular countries for American football"
+  ],
+  "turn": "Where American football is popular?"
+ },
+ "d4c5ada5504e23bc1b277ce0d90c95345f2be1ff": {
+  "history": [
+   "Where do guinea pigs sleep in the wild?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what do guinea pigs eat",
+   "guinea pig natural diet",
+   "what is the diet of a wild guinea pig",
+   "what do guinea pigs eat in the wild",
+   "guinea pigs feeding habits"
+  ],
+  "turn": "What do guinea pigs eat?"
+ },
+ "d585d78856cee903c79b1cfde6856431a7682b66": {
+  "history": [
+   "where do the arizona cardinals play this week",
+   "Do they play outside the US?",
+   "And Chicago?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "do the Arizona Cardinals play outside the US this week",
+   "are the Arizona Cardinals playing an international game this week",
+   "is this week's Arizona Cardinals game outside of the United States",
+   "do the Arizona Cardinals have an overseas game this week",
+   "location of this week Arizona Cardinals game outside US"
+  ],
+  "turn": "Do they play outside the US?"
+ },
+ "d8fcd40aa04e6c31f9ef58059308a4876ed7995f": {
+  "history": [
+   "Where do guinea pigs sleep in the wild?",
+   "where does Domestic guinea pigs live and what does Domestic guinea pigs activity look like?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what do guinea pigs look like",
+   "guinea pig physical appearance and body characteristics",
+   "describe the body of a guinea pig",
+   "what are the physical traits of domestic guinea pigs",
+   "guinea pig anatomy and appearance"
+  ],
+  "turn": "more about guinea pig appearance or body"
+ },
+ "d96ffd4e41cc1fcd161273283d3acb6a7bd5eba4": {
+  "history": [
+   "Were Shakespeare's plays popular when he was alive?",
+   "How many film adaptations of Hamlet are there?",
+   "What about Romeo and Juliet?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "How many film adaptations of Romeo and Juliet are there?",
+   "Number of movie versions of Romeo and Juliet",
+   "Adaptations of Romeo and Juliet on film",
+   "How many cinematic versions of Romeo and Juliet exist?",
+   "Total film adaptations for Romeo and Juliet"
+  ],
+  "turn": "Hamnet"
+ },
+ "dafcda38ee3b5ae209863ffd196b81f8747e4707": {
+  "history": [
+   "what is the meaning of grenade by bruno mars",
+   "Are you able to tell me who were the writers  of the song and also who were its performers?",
+   "Do you know when the song was released?",
+   "Did Grenade by Bruno Mars become a hit?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Did Bruno Mars perform at the Super Bowl halftime show?",
+   "Bruno Mars Super Bowl performance history",
+   "Has Bruno Mars ever performed at the Super Bowl?",
+   "Super Bowl performances by Bruno Mars",
+   "Did Bruno Mars sing at the Super Bowl?"
+  ],
+  "turn": "Did Bruno Mars perform at the Super Bowl?"
+ },
+ "dbb2936a879956409a3664a59e26b80b212fe0a4": {
+  "history": [
+   "what is the difference between primary and archaeological sources",
+   "primary sources in history",
+   "archaeological discoveries and colonialists",
+   "Celts",
+   "Talking about the Celts, what is the importance of them in history?",
+   "Going back to primary source, can it be used in literature"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what is a secondary source in history and literature",
+   "how do secondary sources differ from primary and archaeological sources",
+   "what is the definition and role of a secondary source",
+   "can secondary sources be used in literature and historical analysis",
+   "what is a secondary source"
+  ],
+  "turn": "secondary source"
+ },
+ "dc408eda12a4ee059808ad12fe3646919cd791fd": {
+  "history": [
+   "where does the penobscot river start and end",
+   "The West branch."
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Are there any other important river systems in Maine?",
+   "What are other major river systems besides the Penobscot River?",
+   "Are there other significant rivers in Maine besides the Penobscot?",
+   "What other important rivers are located in Maine?",
+   "Are there other major river systems in the same region as the Penobscot River?"
+  ],
+  "turn": "Are there any other important river systems?"
+ },
+ "dfc5c0321b2f3c60d17ae4c448d40d68857d834a": {
+  "history": [
+   "what happens to toby at the end of the office",
+   "any reason to end?",
+   "who was the arch rival to this series?",
+   "why 46% drop all the sudden?  who are audiences?",
+   "any awards"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what are the highest rated episodes in the history of The Office",
+   "is The Office considered one of the best shows in television history",
+   "what is the critical reception and legacy of The Office in television history",
+   "does The Office rank among the best sitcoms of all time",
+   "what are the historical rankings and best achievements of The Office"
+  ],
+  "turn": "history best?"
+ },
+ "e324c1a2ab83e2014b679e63471be269c97be333": {
+  "history": [
+   "what is the meaning of grenade by bruno mars",
+   "Are you able to tell me who were the writers  of the song and also who were its performers?",
+   "Do you know when the song was released?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "did Bruno Mars song Grenade become a hit",
+   "Grenade by Bruno Mars chart success and popularity",
+   "was Grenade by Bruno Mars a commercial success",
+   "chart performance of Grenade by Bruno Mars",
+   "did the song Grenade by Bruno Mars become a hit single"
+  ],
+  "turn": "Did Grenade by Bruno Mars become a hit?"
+ },
+ "e44edf910a2338cb2eba180d227bc54e478170a6": {
+  "history": [
+   "how much were the actors in friends paid",
+   "oh my god, I am a big fan of Jennifer Aniston. how was she introduced in Friends",
+   "how many seasons does Friends have? When did it start and end?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "did Friends air in different countries and did the show win any awards",
+   "international broadcast of Friends and awards won by the show",
+   "was Friends broadcast globally and what awards did it receive",
+   "did Friends air internationally and how many awards did it win",
+   "countries where Friends aired and awards received by the series"
+  ],
+  "turn": "did Friends air in different countries? I also wonder if the show earned any awards"
+ },
+ "e6299de6d98fe0de8be9a985c73eda7cc0f80367": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "where do guinea pigs sleep in the wild",
+   "natural sleeping habits of wild guinea pigs",
+   "where do wild guinea pigs build their nests",
+   "wild guinea pig sleeping locations",
+   "habitat and sleeping places of guinea pigs in the wild"
+  ],
+  "turn": "Where do guinea pigs sleep in the wild?"
+ },
+ "e6a311276426b804d33548686f3327b75f4cc649": {
+  "history": [
+   "Were Shakespeare's plays popular when he was alive?",
+   "How many film adaptations of Hamlet are there?",
+   "What about Romeo and Juliet?",
+   "Hamnet"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "What was William Shakespeare's most popular history play during his lifetime?",
+   "Which historical play by Shakespeare was the most popular?",
+   "What was Shakespeare's best-selling or most popular history drama?",
+   "Most popular history play by William Shakespeare",
+   "What were Shakespeare's most successful history plays?"
+  ],
+  "turn": "What was Shakespeare's most popular historical play?"
+ },
+ "e6b6b5dd86fa973fa052794075ba70c50d787dd9": {
+  "history": [
+   "why did the us demand trade with japan",
+   "So, are you saying that the petroleum dependance eventually caused Japan to start WWII?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "What was the Greater East Asia Co-Prosperity Sphere?",
+   "What was the Greater Japan name related to World War II?",
+   "What was the Greater East Asia co-prosperity sphere policy?",
+   "What was the 'greater' economic bloc called in Japan during WWII?",
+   "What was the historical term starting with greater used by Japan?"
+  ],
+  "turn": "What it called \"greater something\"?"
+ },
+ "e7ea197baf9e0b691519ce9cdfaef005240ac2af": {
+  "history": [
+   "how does the mls all star game work?",
+   "When did the MSL All-Star game start?",
+   "MSL All-Star game seems to be a big sport event.  Have any teams from Europe played in the MSL All-Star Games ?",
+   "Talking about soccer, Can you name the best soccer players of all the time?",
+   "What  does it make a good soccer player?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Is soccer still considered the most watched sport in the world?",
+   "Is soccer the most viewed sport globally today?",
+   "Does soccer remain the most watched sport worldwide?",
+   "Is association football still the most popular sport by viewership globally?",
+   "Is soccer currently the most watched sport across the world?"
+  ],
+  "turn": "Are Soccer still considered the most watched sports around the world?"
+ },
+ "e8735274669c1cc3ba00eceba60ed6e4e4def69a": {
+  "history": [
+   "how does the mls all star game work?",
+   "When did the MSL All-Star game start?",
+   "MSL All-Star game seems to be a big sport event.  Have any teams from Europe played in the MSL All-Star Games ?",
+   "Talking about soccer, Can you name the best soccer players of all the time?",
+   "What  does it make a good soccer player?",
+   "Are Soccer still considered the most watched sports around the world?",
+   "What can you say about American Football? Is i talso considered a popular sport as soccer?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Is basketball considered a very popular sport in America?",
+   "How popular is basketball in the United States compared to other sports?",
+   "Is basketball one of the most popular sports in America?",
+   "What is the popularity of basketball in the United States?",
+   "How does basketball rank in popularity as an American sport?"
+  ],
+  "turn": "Is Basketball also considered a very popular sport in America?"
+ },
+ "e96bfdab4762b53b1837a4e471b3f4210b395aa8": {
+  "history": [
+   "where do the arizona cardinals play this week",
+   "Do they play outside the US?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "who wrote the novel pride and prejudice",
+   "author of pride and prejudice",
+   "who is the author of pride and prejudice",
+   "pride and prejudice writer",
+   "novel pride and prejudice author"
+  ],
+  "turn": "who wrote the novel pride and prejudice"
+ },
+ "e9d1074b675dd7b4fd7a2bc8f80367e07c7a9b0c": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "how does the mls all star game work",
+   "mls all star game format and rules",
+   "explanation of the major league soccer all star game",
+   "how are teams chosen for the mls all star game",
+   "mls all star game structure"
+  ],
+  "turn": "how does the mls all star game work?"
+ },
+ "eb9165170f123445b012f64b47fbd3f420a69908": {
+  "history": [
+   "types and causes of male and female infertility"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "what is the average duration of the adoption process",
+   "how long does it typically take to adopt a child",
+   "timeline and duration for adopting a child",
+   "how many years does adoption take",
+   "average length of time to complete an adoption"
+  ],
+  "turn": "How many years, think about adoption?"
+ },
+ "ed87918dadc0fc6f36959c11d9f732b6f556f1ae": {
+  "history": [
+   "which sport awards the oldest trophy in international sports",
+   "As America's Cup is the oldest trophy awarded to sailing, May I ask you what is the oldest sport invented and if  it is still been currently playing ?",
+   "Soccer is a very popular sport and watched by millions around the world. What is the difference between soccer and american football that is also very popular and viewed  by thousands around the world?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Are soccer and American football played by both men and women",
+   "Can women play soccer and American football alongside men",
+   "Gender participation in soccer and American football",
+   "Are soccer and American football coed sports or segregated by gender",
+   "Do men and women both play soccer and American football professionally"
+  ],
+  "turn": "Are those sport only played by man or woman also can play  them?"
+ },
+ "ee01bcb6ba605cc54bb14adb70044c9d3b561017": {
+  "history": [
+   "where is bone marrow found what does it do for the body",
+   "What happens if it does not work well?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "How is sickle cell disease treated",
+   "What are the treatment options for sickle cell anemia",
+   "How do doctors treat sickle cell disease",
+   "Treatments for sickle cell disorder",
+   "Medical therapies for sickle cell anemia"
+  ],
+  "turn": "How is Sickle cell treated?"
+ },
+ "ee60a640c44c6d66bcb65c96012d292836a6b355": {
+  "history": [
+   "where does water go after it enters a storm drain",
+   "What is a catchbasin and how they are designed?",
+   "Does the basin really capture the litter  and debris from the water from the streets, roads, roofs?",
+   "Could be the water that enters a storm drain recycled and be used in the house chores like cleaning, gardening , etc?",
+   "And about on the level of the Federal government, do  they have guidelines or even a law to how to build more sustainable storm drain so the water could be recycled ?",
+   "How does the storm drain work in the other parts of the world."
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "how did ancient civilizations manage stormwater",
+   "ancient civilization stormwater management systems",
+   "history of ancient urban drainage and stormwater control",
+   "how ancient cultures dealt with rainwater and runoff",
+   "ancient methods for handling stormwater and drainage"
+  ],
+  "turn": "Do you have any information about how the ancient civilization deal with the stormwater?"
+ },
+ "eed62d2b92810347bc4e1d6876fffb4f415132a2": {
+  "history": [
+   "where do the arizona cardinals play this week",
+   "Do the Arizona Cardinals play outside the US?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Are the Arizona Cardinals and the Chicago Cardinals the same franchise",
+   "Did the Arizona Cardinals used to be the Chicago Cardinals",
+   "History of the Arizona Cardinals and Chicago Cardinals",
+   "Are the Chicago Cardinals now the Arizona Cardinals",
+   "Relation between Arizona Cardinals and Chicago Cardinals NFL"
+  ],
+  "turn": "Are the Arizona Cardinals and the Chicago Cardinals the same team?"
+ },
+ "ef7fd33054c8f456c92097585ddd436445308ecb": {
+  "history": [
+   "how does the mls all star game work?",
+   "When did the MSL All-Star game start?",
+   "MSL All-Star game seems to be a big sport event.  Have any teams from Europe played in the MSL All-Star Games ?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "who are the best soccer players of all time",
+   "greatest soccer players in history",
+   "all time best football players",
+   "top soccer players ever",
+   "best players in soccer history"
+  ],
+  "turn": "Talking about soccer, Can you name the best soccer players of all the time?"
+ },
+ "f038af92de7e16b0669236409d74e896fb9ee5d1": {
+  "history": [
+   "where was the cotton gin invented and where is it used today",
+   "Did the need for cotton workers increase?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "How much did the cotton gin increase cotton production",
+   "Cotton gin production increase statistics",
+   "What was the increase in production caused by the invention of the cotton gin",
+   "By what percentage did the cotton gin boost production",
+   "Impact of the cotton gin on production output levels"
+  ],
+  "turn": "By how much did the cotton gin increase production?"
+ },
+ "f2144e95f7072e313d0b1b3ffbee50cb04f55cd5": {
+  "history": [
+   "what happens to toby at the end of the office",
+   "any reason to end?",
+   "who was the arch rival to this series?",
+   "why 46% drop all the sudden?  who are audiences?",
+   "any awards",
+   "history best?",
+   "no, I meant which TV series was the best in history?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "What TV series should I watch after finishing The Office",
+   "Best shows to watch next after completing The Office",
+   "Recommendations for television series following The Office",
+   "What is the successor to The Office in terms of popularity",
+   "What show should I watch after The Office"
+  ],
+  "turn": "So what is the next after The Office?"
+ },
+ "f285c9f21513e3db7bac8ce177759bc08c2bf3de": {
+  "history": [
+   "why was the eastern roman empire called the byzantine empire",
+   "What was its religion?",
+   "When was reorganized?",
+   "Why it fall?",
+   "When was it found?",
+   "Stay within the boundaries of what is now known as Italy.",
+   "Who was the last Emperor?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "When did the Byzantine Empire become Catholic?",
+   "When did the last emperor of the Byzantine Empire adopt Catholicism?",
+   "At what point in history did the Byzantine Empire convert to Catholicism?",
+   "When did the Eastern Roman Empire transition to Catholicism?",
+   "Date of the Byzantine Empire becoming Catholic"
+  ],
+  "turn": "When did it become Catholic?"
+ },
+ "f315bc93f3711c7b1241e82317105e39fe5212e5": {
+  "history": [
+   "when did the wall in berlin come down",
+   "When did the official reunification of Germany take place?",
+   "How many people died trying to cross the Berlin Wall?",
+   "How did people try to escape?",
+   "Did all government agencies move to Berlin",
+   "Who was running East Germany when the wall came down"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Who was Willy Brandt and what were his historical contributions",
+   "Biography of Willy Brandt and his political role in Germany",
+   "What did Willy Brandt do as a politician",
+   "Information about Willy Brandt life and career",
+   "Who is Willy Brandt and what is he famous for"
+  ],
+  "turn": "Who was Willy Brandt and what did he do."
+ },
+ "f3e92aeef3eb05dc491dfe8de1a73eb634b3b21d": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "largest employment sector in India",
+   "which industry employs the most people in India",
+   "India highest employment provider industry",
+   "top job creating industry in India",
+   "largest workforce sector in India"
+  ],
+  "turn": "which industry provides the largest employment in india"
+ },
+ "f45f89cc0c34e96e7c5da5f20af3d199b38f8612": {
+  "history": [
+   "what makes the different shapes of the moon"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "What is the distance between the moon and earth",
+   "Earth to moon distance",
+   "How far away is the moon from the earth",
+   "Distance from the earth to the moon in miles or kilometers",
+   "What is the average distance between the earth and the moon"
+  ],
+  "turn": "What is the distance between the moon and earth?"
+ },
+ "f882622740ed79b482abe0a74ee97f108310e529": {
+  "history": [
+   "how does the mls all star game work?",
+   "When did the MSL All-Star game start?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "have European teams ever played in the MLS All-Star Game",
+   "MLS All-Star Game European club opponents",
+   "did teams from Europe participate in the MLS All-Star matches",
+   "MLS All-Star Game history against European teams",
+   "list of European football clubs that played in the MLS All-Star Game"
+  ],
+  "turn": "MSL All-Star game seems to be a big sport event.  Have any teams from Europe played in the MSL All-Star Games ?"
+ },
+ "f9641f802b50c26d14df057786ae88c8896bc53e": {
+  "history": [
+   "how does the mls all star game work",
+   "What is it called outside of the USA?",
+   "Can women play it?",
+   "Which is the most popular?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Where did the MLS All-Star Game originate?",
+   "What is the origin of the MLS All-Star Game?",
+   "Where did the concept for the MLS All-Star Game start?",
+   "What is the birthplace of the MLS All-Star Game?",
+   "Where was the first MLS All-Star Game held?"
+  ],
+  "turn": "Where does it originate from?"
+ },
+ "fa484f87e8edbceb481a2447d5801651f40fa7b4": {
+  "history": [
+   "which industry provides the largest employment in india",
+   "Agriculture seems very important to India",
+   "what does indian agriculture produce include?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "average income of Indian agriculture workers",
+   "profitability and wages in the Indian agricultural sector",
+   "do farmers in India make a good living",
+   "income levels of people working in Indian agriculture",
+   "financial earnings of agricultural workers in India"
+  ],
+  "turn": "do you think indian people working in agriculture industry make money"
+ },
+ "fb858edbb4c8f5abe077509ef90b422395efb565": {
+  "history": [
+   "who takes photos of planes in the air",
+   "No, I meant photos in the air."
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "does the pilot of the second aircraft also take photos",
+   "is the pilot of the second plane also the aerial photographer",
+   "does the second aircraft pilot act as a photographer",
+   "are aerial plane photos taken by the pilot of the second aircraft",
+   "does the second plane's pilot double as a photographer"
+  ],
+  "turn": "So does that mean pilot of the second aircraft also acts as a photographer?"
+ },
+ "fccfd9c873752983d5895fce0c3892571c566c17": {
+  "history": [
+   "where does water go after it enters a storm drain",
+   "What is a catchbasin and how they are designed?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Does a catch basin actually capture street litter and road debris from stormwater?",
+   "How effective are catch basins at filtering trash and debris from runoff?",
+   "Do catch basins successfully remove litter and debris from urban stormwater runoff?",
+   "Are catch basins efficient at trapping debris and litter from streets and roofs?",
+   "What percentage of litter and debris do catch basins capture from runoff water?"
+  ],
+  "turn": "Does the basin really capture the litter  and debris from the water from the streets, roads, roofs?"
+ },
+ "fd53d0d4647a8e8812a4df52ea1b8ccdea038059": {
+  "history": [],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "why was the eastern roman empire called the byzantine empire",
+   "origin of the term byzantine empire for the eastern roman empire",
+   "history behind the name byzantine empire",
+   "why did historians call the eastern roman empire byzantine",
+   "etymology and naming of the byzantine empire"
+  ],
+  "turn": "why was the eastern roman empire called the byzantine empire"
+ },
+ "fd90d968f0cb12e800bf131ff3a62b78b5fef82e": {
+  "history": [
+   "Where do guinea pigs sleep in the wild?",
+   "What do guinea pigs eat?",
+   "I meant c. tschudii specifically, but thank you for the information regarding the domesticated guinea pig.",
+   "Thanks for clarifying. Do they have predators?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "Are guinea pigs raised for human consumption?",
+   "Is guinea pig meat eaten by humans?",
+   "Do people farm guinea pigs for food?",
+   "Are guinea pigs consumed as food in some cultures?",
+   "Is it true that guinea pigs are raised for meat?"
+  ],
+  "turn": "I'm told guinea pigs are raised for human consumption. Is that true?"
+ },
+ "fee09202af440fa86c9180ba0c74cd6e588a7bef": {
+  "history": [
+   "why was the eastern roman empire called the byzantine empire"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "What was the religion of the Byzantine Empire",
+   "Eastern Roman Empire official religion",
+   "What religion did the Byzantine Empire follow",
+   "Byzantine Empire state religion",
+   "Religion of the Eastern Roman Empire"
+  ],
+  "turn": "What was its religion?"
+ },
+ "feef3dcd9774ff5fdd79e4e12a3dc07e3104728b": {
+  "history": [
+   "where do the arizona cardinals play this week",
+   "Do the Arizona Cardinals play outside the US?",
+   "Are the Arizona Cardinals and the Chicago Cardinals the same team?",
+   "How many teams are in the NFL?",
+   "How many teams are in the NFL playoffs?"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "rewrites": [
+   "which NFL team has the most Super Bowl wins",
+   "franchise with the most Super Bowl titles in NFL history",
+   "which team won the most Super Bowls",
+   "NFL team with the highest number of Super Bowl championships",
+   "most successful NFL team in Super Bowls"
+  ],
+  "turn": "Which team has won the most Super Bowls?"
+ }
+}

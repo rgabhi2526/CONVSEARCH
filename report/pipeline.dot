@@ -1,0 +1,25 @@
+digraph G {
+  rankdir=LR; nodesep=0.25; ranksep=0.3;
+  node [shape=box, style="rounded,filled", fillcolor="#eef3fb", fontname="Helvetica", fontsize=10];
+  edge [fontname="Helvetica", fontsize=8];
+  subgraph cluster_off { label="offline (once)"; fontname="Helvetica"; fontsize=9; style=dashed;
+    corpus [label="ClapNQ\n183,408 passages"];
+    text0 [label="tokenise · NFKD · Porter\n(stopwords kept)"];
+    index [label="positional inverted index\nzones: title | body\n193K terms · 12M postings", fillcolor="#dbe8d4"];
+    corpus -> text0 -> index;
+  }
+  turn [label="user turn t\n+ history (user turns)", fillcolor="#fff3cd"];
+  llm [label="Gemini: N=5\nstandalone rewrites\n(cached)", fillcolor="#f6e0e0"];
+  fuse [label="rewrite fusion\nw(t) = agree(t) (+β)\ndrop agree < 2/N", fillcolor="#dbe8d4"];
+  gate [label="topic-shift gate\nself-contained ∧\nJaccard(top10) < τj ∧\nhist-agree < τh", fillcolor="#dbe8d4"];
+  agent [label="Boolean agent\nAND top-4, df-ordered ∩\n0 hits → drop · >500 → add/phrase\n→ set B", fillcolor="#dbe8d4"];
+  rank [label="BM25 (body + α·title)\n+ λ·max·1[d∈B]\nheap top-K", fillcolor="#dbe8d4"];
+  rr [label="[stretch] top-100 re-rank\n+ μ·dense e5 + ν·PPR g(d)", fillcolor="#e8e8e8"];
+  out [label="ranked passages\n+ trace (weights,\npostings, scores)", fillcolor="#fff3cd"];
+  turn -> llm -> fuse; turn -> fuse [label="turn terms"];
+  fuse -> gate [label="weight table"]; gate -> rank [label="query vector"];
+  fuse -> agent [label="terms, phrases"]; agent -> rank [label="B"];
+  index -> rank [style=dashed]; index -> agent [style=dashed, label="postings, df"]; index -> gate [style=dashed];
+  rank -> rr -> out;
+  prev [label="previous turn's\ntop-10", fillcolor="#fff3cd"]; prev -> gate; prev -> rr;
+}
